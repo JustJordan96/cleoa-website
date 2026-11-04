@@ -4,6 +4,8 @@ A complete, editable rebuild of [cleoa.co.uk](https://www.cleoa.co.uk), retainin
 
 Source: [JustJordan96/cleoa-website](https://github.com/JustJordan96/cleoa-website) (private repository).
 
+For Vercel uploads from Git, the commit author's email must match an identity verified on the Vercel account. Keep this setting local to the repository when using different accounts for other projects.
+
 ## Preview
 
 Requires Node.js 20 or later. There are **no npm dependencies to install**.
