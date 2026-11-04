@@ -1,0 +1,1364 @@
+{
+  "source": "https://www.cleoa.co.uk",
+  "auditedDate": "2026-11-03",
+  "requestedCount": 72,
+  "completedCount": 72,
+  "newPostPaths": [],
+  "pages": [
+    {
+      "path": "/writing/hashtags/galentinesday",
+      "url": "https://www.cleoa.co.uk/writing/hashtags/galentinesday",
+      "labels": [
+        "#galentinesday"
+      ],
+      "status": 200,
+      "title": "#galentinesday",
+      "linkedPostPaths": [
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/hashtags/galentinesday",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY"
+      ]
+    },
+    {
+      "path": "/writing/hashtags/valentinesdog",
+      "url": "https://www.cleoa.co.uk/writing/hashtags/valentinesdog",
+      "labels": [
+        "#valentinesdog"
+      ],
+      "status": 200,
+      "title": "#valentinesdog",
+      "linkedPostPaths": [
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/hashtags/valentinesdog",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY"
+      ]
+    },
+    {
+      "path": "/writing/tags/007",
+      "url": "https://www.cleoa.co.uk/writing/tags/007",
+      "labels": [
+        "007"
+      ],
+      "status": 200,
+      "title": "007 | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/007",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/2022",
+      "url": "https://www.cleoa.co.uk/writing/tags/2022",
+      "labels": [
+        "2022"
+      ],
+      "status": 200,
+      "title": "2022 | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/2022",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/ambition",
+      "url": "https://www.cleoa.co.uk/writing/tags/ambition",
+      "labels": [
+        "Ambition"
+      ],
+      "status": 200,
+      "title": "Ambition | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/ambition",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/art",
+      "url": "https://www.cleoa.co.uk/writing/tags/art",
+      "labels": [
+        "Art"
+      ],
+      "status": 200,
+      "title": "Art | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchats-an-afternoon-with-artist-helen-johannessen",
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/art",
+      "headings": [
+        "The art of saying “YES!”",
+        "#LifeStartCareerChats: An afternoon with artist Helen Johannessen"
+      ]
+    },
+    {
+      "path": "/writing/tags/beach",
+      "url": "https://www.cleoa.co.uk/writing/tags/beach",
+      "labels": [
+        "Beach"
+      ],
+      "status": 200,
+      "title": "Beach | Cleoa",
+      "linkedPostPaths": [
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica",
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/beach",
+      "headings": [
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)",
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/careers",
+      "url": "https://www.cleoa.co.uk/writing/tags/careers",
+      "labels": [
+        "Careers"
+      ],
+      "status": 200,
+      "title": "Careers | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova",
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/careers",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott",
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/caribbean",
+      "url": "https://www.cleoa.co.uk/writing/tags/caribbean",
+      "labels": [
+        "Caribbean"
+      ],
+      "status": 200,
+      "title": "Caribbean | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/caribbean",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/ceramic",
+      "url": "https://www.cleoa.co.uk/writing/tags/ceramic",
+      "labels": [
+        "Ceramic"
+      ],
+      "status": 200,
+      "title": "Ceramic | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchats-an-afternoon-with-artist-helen-johannessen"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/ceramic",
+      "headings": [
+        "#LifeStartCareerChats: An afternoon with artist Helen Johannessen"
+      ]
+    },
+    {
+      "path": "/writing/tags/chores",
+      "url": "https://www.cleoa.co.uk/writing/tags/chores",
+      "labels": [
+        "Chores"
+      ],
+      "status": 200,
+      "title": "Chores | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/chores",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/christmas",
+      "url": "https://www.cleoa.co.uk/writing/tags/christmas",
+      "labels": [
+        "Christmas"
+      ],
+      "status": 200,
+      "title": "Christmas | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas",
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/christmas",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS",
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/communication",
+      "url": "https://www.cleoa.co.uk/writing/tags/communication",
+      "labels": [
+        "Communication"
+      ],
+      "status": 200,
+      "title": "Communication | Cleoa",
+      "linkedPostPaths": [
+        "/post/networking-101-how-to-make-networking-work-for-you"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/communication",
+      "headings": [
+        "Networking 101: How to make networking work for you"
+      ]
+    },
+    {
+      "path": "/writing/tags/couples-sans-souci",
+      "url": "https://www.cleoa.co.uk/writing/tags/couples-sans-souci",
+      "labels": [
+        "Couples Sans Souci"
+      ],
+      "status": 200,
+      "title": "Couples Sans Souci | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/couples-sans-souci",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/creative",
+      "url": "https://www.cleoa.co.uk/writing/tags/creative",
+      "labels": [
+        "Creative"
+      ],
+      "status": 200,
+      "title": "Creative | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/creative",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/creative-writing",
+      "url": "https://www.cleoa.co.uk/writing/tags/creative-writing",
+      "labels": [
+        "Creative Writing"
+      ],
+      "status": 200,
+      "title": "Creative Writing | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/creative-writing",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott"
+      ]
+    },
+    {
+      "path": "/writing/tags/customer",
+      "url": "https://www.cleoa.co.uk/writing/tags/customer",
+      "labels": [
+        "Customer"
+      ],
+      "status": 200,
+      "title": "Customer | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/customer",
+      "headings": [
+        "The art of saying “YES!”"
+      ]
+    },
+    {
+      "path": "/writing/tags/december-25",
+      "url": "https://www.cleoa.co.uk/writing/tags/december-25",
+      "labels": [
+        "December 25"
+      ],
+      "status": 200,
+      "title": "December 25 | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas",
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/december-25",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS",
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)"
+      ]
+    },
+    {
+      "path": "/writing/tags/dinner",
+      "url": "https://www.cleoa.co.uk/writing/tags/dinner",
+      "labels": [
+        "Dinner"
+      ],
+      "status": 200,
+      "title": "Dinner | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/dinner",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/diving",
+      "url": "https://www.cleoa.co.uk/writing/tags/diving",
+      "labels": [
+        "Diving"
+      ],
+      "status": 200,
+      "title": "Diving | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/diving",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/editor",
+      "url": "https://www.cleoa.co.uk/writing/tags/editor",
+      "labels": [
+        "Editor"
+      ],
+      "status": 200,
+      "title": "Editor | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/editor",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott"
+      ]
+    },
+    {
+      "path": "/writing/tags/eva-liparova",
+      "url": "https://www.cleoa.co.uk/writing/tags/eva-liparova",
+      "labels": [
+        "Eva Liparova"
+      ],
+      "status": 200,
+      "title": "Eva Liparova | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/eva-liparova",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/falmouth",
+      "url": "https://www.cleoa.co.uk/writing/tags/falmouth",
+      "labels": [
+        "Falmouth"
+      ],
+      "status": 200,
+      "title": "Falmouth | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/falmouth",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/february-14th",
+      "url": "https://www.cleoa.co.uk/writing/tags/february-14th",
+      "labels": [
+        "February 14th"
+      ],
+      "status": 200,
+      "title": "February 14th | Cleoa",
+      "linkedPostPaths": [
+        "/post/last-minute-valentine-s-day-tips",
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/february-14th",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY",
+        "Last Minute Valentine’s Day Tips"
+      ]
+    },
+    {
+      "path": "/writing/tags/festive",
+      "url": "https://www.cleoa.co.uk/writing/tags/festive",
+      "labels": [
+        "Festive"
+      ],
+      "status": 200,
+      "title": "Festive | Cleoa",
+      "linkedPostPaths": [
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/festive",
+      "headings": [
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)"
+      ]
+    },
+    {
+      "path": "/writing/tags/food",
+      "url": "https://www.cleoa.co.uk/writing/tags/food",
+      "labels": [
+        "Food"
+      ],
+      "status": 200,
+      "title": "Food | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/food",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/gifts",
+      "url": "https://www.cleoa.co.uk/writing/tags/gifts",
+      "labels": [
+        "Gifts"
+      ],
+      "status": 200,
+      "title": "Gifts | Cleoa",
+      "linkedPostPaths": [
+        "/post/last-minute-valentine-s-day-tips",
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/gifts",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY",
+        "Last Minute Valentine’s Day Tips"
+      ]
+    },
+    {
+      "path": "/writing/tags/goldeneye",
+      "url": "https://www.cleoa.co.uk/writing/tags/goldeneye",
+      "labels": [
+        "Goldeneye"
+      ],
+      "status": 200,
+      "title": "Goldeneye | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/goldeneye",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/holiday",
+      "url": "https://www.cleoa.co.uk/writing/tags/holiday",
+      "labels": [
+        "Holiday"
+      ],
+      "status": 200,
+      "title": "Holiday | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas",
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/holiday",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS",
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)"
+      ]
+    },
+    {
+      "path": "/writing/tags/hotel",
+      "url": "https://www.cleoa.co.uk/writing/tags/hotel",
+      "labels": [
+        "Hotel"
+      ],
+      "status": 200,
+      "title": "Hotel | Cleoa",
+      "linkedPostPaths": [
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/hotel",
+      "headings": [
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)"
+      ]
+    },
+    {
+      "path": "/writing/tags/information",
+      "url": "https://www.cleoa.co.uk/writing/tags/information",
+      "labels": [
+        "Information"
+      ],
+      "status": 200,
+      "title": "Information | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/information",
+      "headings": [
+        "The art of saying “YES!”"
+      ]
+    },
+    {
+      "path": "/writing/tags/jamaica",
+      "url": "https://www.cleoa.co.uk/writing/tags/jamaica",
+      "labels": [
+        "Jamaica"
+      ],
+      "status": 200,
+      "title": "Jamaica | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas",
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/jamaica",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY",
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/jamaican-film",
+      "url": "https://www.cleoa.co.uk/writing/tags/jamaican-film",
+      "labels": [
+        "Jamaican Film"
+      ],
+      "status": 200,
+      "title": "Jamaican Film | Cleoa",
+      "linkedPostPaths": [
+        "/post/jamaican-film-and-culture",
+        "/post/unlocking-jamaica-s-film-potential-key-policy-recommendations"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/jamaican-film",
+      "headings": [
+        "Unlocking Jamaica's Film Potential: Key Policy Recommendations",
+        "Jamaican Film (and) Culture"
+      ]
+    },
+    {
+      "path": "/writing/tags/james-bond",
+      "url": "https://www.cleoa.co.uk/writing/tags/james-bond",
+      "labels": [
+        "James Bond"
+      ],
+      "status": 200,
+      "title": "James Bond | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/james-bond",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/laughing-waters",
+      "url": "https://www.cleoa.co.uk/writing/tags/laughing-waters",
+      "labels": [
+        "Laughing Waters"
+      ],
+      "status": 200,
+      "title": "Laughing Waters | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/laughing-waters",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/life",
+      "url": "https://www.cleoa.co.uk/writing/tags/life",
+      "labels": [
+        "Life"
+      ],
+      "status": 200,
+      "title": "Life | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott",
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/life",
+      "headings": [
+        "The art of saying “YES!”",
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott"
+      ]
+    },
+    {
+      "path": "/writing/tags/love",
+      "url": "https://www.cleoa.co.uk/writing/tags/love",
+      "labels": [
+        "Love"
+      ],
+      "status": 200,
+      "title": "Love | Cleoa",
+      "linkedPostPaths": [
+        "/post/last-minute-valentine-s-day-tips",
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/love",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY",
+        "Last Minute Valentine’s Day Tips"
+      ]
+    },
+    {
+      "path": "/writing/tags/mentor",
+      "url": "https://www.cleoa.co.uk/writing/tags/mentor",
+      "labels": [
+        "Mentor"
+      ],
+      "status": 200,
+      "title": "Mentor | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/mentor",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/mi6",
+      "url": "https://www.cleoa.co.uk/writing/tags/mi6",
+      "labels": [
+        "MI6"
+      ],
+      "status": 200,
+      "title": "MI6 | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/mi6",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/negril",
+      "url": "https://www.cleoa.co.uk/writing/tags/negril",
+      "labels": [
+        "Negril"
+      ],
+      "status": 200,
+      "title": "Negril | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/negril",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/networking",
+      "url": "https://www.cleoa.co.uk/writing/tags/networking",
+      "labels": [
+        "Networking"
+      ],
+      "status": 200,
+      "title": "Networking | Cleoa",
+      "linkedPostPaths": [
+        "/post/networking-101-how-to-make-networking-work-for-you"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/networking",
+      "headings": [
+        "Networking 101: How to make networking work for you"
+      ]
+    },
+    {
+      "path": "/writing/tags/new-me",
+      "url": "https://www.cleoa.co.uk/writing/tags/new-me",
+      "labels": [
+        "New Me"
+      ],
+      "status": 200,
+      "title": "New Me | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/new-me",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/new-year",
+      "url": "https://www.cleoa.co.uk/writing/tags/new-year",
+      "labels": [
+        "New Year"
+      ],
+      "status": 200,
+      "title": "New Year | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/new-year",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/optimism",
+      "url": "https://www.cleoa.co.uk/writing/tags/optimism",
+      "labels": [
+        "Optimism"
+      ],
+      "status": 200,
+      "title": "Optimism | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/optimism",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/organisation",
+      "url": "https://www.cleoa.co.uk/writing/tags/organisation",
+      "labels": [
+        "Organisation"
+      ],
+      "status": 200,
+      "title": "Organisation | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/organisation",
+      "headings": [
+        "The art of saying “YES!”"
+      ]
+    },
+    {
+      "path": "/writing/tags/padi",
+      "url": "https://www.cleoa.co.uk/writing/tags/padi",
+      "labels": [
+        "PADI"
+      ],
+      "status": 200,
+      "title": "PADI | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/padi",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/pandemic",
+      "url": "https://www.cleoa.co.uk/writing/tags/pandemic",
+      "labels": [
+        "Pandemic"
+      ],
+      "status": 200,
+      "title": "Pandemic | Cleoa",
+      "linkedPostPaths": [
+        "/post/life-in-a-pandemic-paradise-365-days-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/pandemic",
+      "headings": [
+        "Life in a Pandemic Paradise - 365 Days+ in Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/partner",
+      "url": "https://www.cleoa.co.uk/writing/tags/partner",
+      "labels": [
+        "Partner"
+      ],
+      "status": 200,
+      "title": "Partner | Cleoa",
+      "linkedPostPaths": [
+        "/post/last-minute-valentine-s-day-tips",
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/partner",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY",
+        "Last Minute Valentine’s Day Tips"
+      ]
+    },
+    {
+      "path": "/writing/tags/party",
+      "url": "https://www.cleoa.co.uk/writing/tags/party",
+      "labels": [
+        "Party"
+      ],
+      "status": 200,
+      "title": "Party | Cleoa",
+      "linkedPostPaths": [
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/party",
+      "headings": [
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)"
+      ]
+    },
+    {
+      "path": "/writing/tags/plans",
+      "url": "https://www.cleoa.co.uk/writing/tags/plans",
+      "labels": [
+        "Plans"
+      ],
+      "status": 200,
+      "title": "Plans | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/plans",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/port-royal",
+      "url": "https://www.cleoa.co.uk/writing/tags/port-royal",
+      "labels": [
+        "Port Royal"
+      ],
+      "status": 200,
+      "title": "Port Royal | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica",
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/port-royal",
+      "headings": [
+        "007's Bond with Jamaica",
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/portland",
+      "url": "https://www.cleoa.co.uk/writing/tags/portland",
+      "labels": [
+        "Portland"
+      ],
+      "status": 200,
+      "title": "Portland | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/portland",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/professional",
+      "url": "https://www.cleoa.co.uk/writing/tags/professional",
+      "labels": [
+        "Professional"
+      ],
+      "status": 200,
+      "title": "Professional | Cleoa",
+      "linkedPostPaths": [
+        "/post/networking-101-how-to-make-networking-work-for-you"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/professional",
+      "headings": [
+        "Networking 101: How to make networking work for you"
+      ]
+    },
+    {
+      "path": "/writing/tags/rebecca-hiscott",
+      "url": "https://www.cleoa.co.uk/writing/tags/rebecca-hiscott",
+      "labels": [
+        "Rebecca Hiscott"
+      ],
+      "status": 200,
+      "title": "Rebecca Hiscott | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/rebecca-hiscott",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott"
+      ]
+    },
+    {
+      "path": "/writing/tags/resolutions",
+      "url": "https://www.cleoa.co.uk/writing/tags/resolutions",
+      "labels": [
+        "Resolutions"
+      ],
+      "status": 200,
+      "title": "Resolutions | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/resolutions",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS"
+      ]
+    },
+    {
+      "path": "/writing/tags/sales",
+      "url": "https://www.cleoa.co.uk/writing/tags/sales",
+      "labels": [
+        "Sales"
+      ],
+      "status": 200,
+      "title": "Sales | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/sales",
+      "headings": [
+        "The art of saying “YES!”"
+      ]
+    },
+    {
+      "path": "/writing/tags/scuba-diving",
+      "url": "https://www.cleoa.co.uk/writing/tags/scuba-diving",
+      "labels": [
+        "Scuba Diving"
+      ],
+      "status": 200,
+      "title": "Scuba Diving | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/scuba-diving",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/sea",
+      "url": "https://www.cleoa.co.uk/writing/tags/sea",
+      "labels": [
+        "Sea"
+      ],
+      "status": 200,
+      "title": "Sea | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/sea",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/snorkel",
+      "url": "https://www.cleoa.co.uk/writing/tags/snorkel",
+      "labels": [
+        "Snorkel"
+      ],
+      "status": 200,
+      "title": "Snorkel | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/snorkel",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/staycation",
+      "url": "https://www.cleoa.co.uk/writing/tags/staycation",
+      "labels": [
+        "Staycation"
+      ],
+      "status": 200,
+      "title": "Staycation | Cleoa",
+      "linkedPostPaths": [
+        "/post/5-great-ways-to-spend-the-festive-holidays-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/staycation",
+      "headings": [
+        "5 GREAT WAYS TO SPEND THE FESTIVE HOLIDAYS (IN JAMAICA)"
+      ]
+    },
+    {
+      "path": "/writing/tags/student",
+      "url": "https://www.cleoa.co.uk/writing/tags/student",
+      "labels": [
+        "student"
+      ],
+      "status": 200,
+      "title": "student | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova",
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/student",
+      "headings": [
+        "The art of saying “YES!”",
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/student-1",
+      "url": "https://www.cleoa.co.uk/writing/tags/student-1",
+      "labels": [
+        "Student"
+      ],
+      "status": 200,
+      "title": "Student | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova",
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/student-1",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott",
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/students",
+      "url": "https://www.cleoa.co.uk/writing/tags/students",
+      "labels": [
+        "Students"
+      ],
+      "status": 200,
+      "title": "Students | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-eva-liparova",
+        "/post/networking-101-how-to-make-networking-work-for-you"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/students",
+      "headings": [
+        "Networking 101: How to make networking work for you",
+        "#LifeStartCareerChat: An evening with Eva Liparova"
+      ]
+    },
+    {
+      "path": "/writing/tags/swimming",
+      "url": "https://www.cleoa.co.uk/writing/tags/swimming",
+      "labels": [
+        "swimming"
+      ],
+      "status": 200,
+      "title": "swimming | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-best-diving-spots-in-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/swimming",
+      "headings": [
+        "The Best Diving Spots In Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/tips",
+      "url": "https://www.cleoa.co.uk/writing/tags/tips",
+      "labels": [
+        "Tips"
+      ],
+      "status": 200,
+      "title": "Tips | Cleoa",
+      "linkedPostPaths": [
+        "/post/four-ways-to-actually-keep-your-new-year-s-resolutions",
+        "/post/networking-101-how-to-make-networking-work-for-you"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/tips",
+      "headings": [
+        "FOUR WAYS TO ACTUALLY KEEP YOUR NEW YEAR’S RESOLUTIONS",
+        "Networking 101: How to make networking work for you"
+      ]
+    },
+    {
+      "path": "/writing/tags/valentine-s-day",
+      "url": "https://www.cleoa.co.uk/writing/tags/valentine-s-day",
+      "labels": [
+        "Valentine's Day"
+      ],
+      "status": 200,
+      "title": "Valentine's Day | Cleoa",
+      "linkedPostPaths": [
+        "/post/last-minute-valentine-s-day-tips",
+        "/post/tips-for-singletons-on-valentine-s-day"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/valentine-s-day",
+      "headings": [
+        "TIPS FOR SINGLETONS ON VALENTINE’S DAY",
+        "Last Minute Valentine’s Day Tips"
+      ]
+    },
+    {
+      "path": "/writing/tags/vegetables",
+      "url": "https://www.cleoa.co.uk/writing/tags/vegetables",
+      "labels": [
+        "Vegetables"
+      ],
+      "status": 200,
+      "title": "Vegetables | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/vegetables",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/vegetarian",
+      "url": "https://www.cleoa.co.uk/writing/tags/vegetarian",
+      "labels": [
+        "Vegetarian"
+      ],
+      "status": 200,
+      "title": "Vegetarian | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/vegetarian",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/white-river",
+      "url": "https://www.cleoa.co.uk/writing/tags/white-river",
+      "labels": [
+        "White River"
+      ],
+      "status": 200,
+      "title": "White River | Cleoa",
+      "linkedPostPaths": [
+        "/post/007-s-bond-with-jamaica"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/white-river",
+      "headings": [
+        "007's Bond with Jamaica"
+      ]
+    },
+    {
+      "path": "/writing/tags/writer",
+      "url": "https://www.cleoa.co.uk/writing/tags/writer",
+      "labels": [
+        "Writer"
+      ],
+      "status": 200,
+      "title": "Writer | Cleoa",
+      "linkedPostPaths": [
+        "/post/lifestartcareerchat-an-evening-with-rebecca-hiscott"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/writer",
+      "headings": [
+        "#LifeStartCareerChat: An evening with Rebecca Hiscott"
+      ]
+    },
+    {
+      "path": "/writing/tags/x-mas",
+      "url": "https://www.cleoa.co.uk/writing/tags/x-mas",
+      "labels": [
+        "X-mas"
+      ],
+      "status": 200,
+      "title": "X-mas | Cleoa",
+      "linkedPostPaths": [
+        "/post/4-tips-for-a-vegetarian-christmas"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/x-mas",
+      "headings": [
+        "4 TIPS FOR A VEGETARIAN CHRISTMAS"
+      ]
+    },
+    {
+      "path": "/writing/tags/yes",
+      "url": "https://www.cleoa.co.uk/writing/tags/yes",
+      "labels": [
+        "Yes"
+      ],
+      "status": 200,
+      "title": "Yes | Cleoa",
+      "linkedPostPaths": [
+        "/post/the-art-of-saying-yes"
+      ],
+      "newPostPaths": [],
+      "otherNewInternalLinks": [],
+      "attempts": 2,
+      "resolvedUrl": "https://www.cleoa.co.uk/writing/tags/yes",
+      "headings": [
+        "The art of saying “YES!”"
+      ]
+    }
+  ]
+}

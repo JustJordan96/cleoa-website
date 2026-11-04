@@ -1,0 +1,29 @@
+{
+  "url": "https://cleoa-preview-9tec64t9e-jordans-projects-95de7c5c.vercel.app",
+  "deploymentId": "dpl_Ccngj6VvB9eAqm7Ay94nA1dpMJNP",
+  "status": "READY",
+  "environment": "preview",
+  "guestAccessWithoutLogin": true,
+  "dates": [
+    {
+      "date": "2026-10-15",
+      "label": "15 October 2026"
+    },
+    {
+      "date": "2026-06-10",
+      "label": "10 June 2026"
+    },
+    {
+      "date": "2026-03-17",
+      "label": "17 March 2026"
+    }
+  ],
+  "numberedCardsRemoved": true,
+  "moreOnLinkedInSection": true,
+  "mobileWidthsChecked": [
+    320,
+    390
+  ],
+  "overflowObserved": false,
+  "buildAndContentChecksPassed": true
+}

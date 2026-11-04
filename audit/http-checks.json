@@ -1,0 +1,10 @@
+{
+  "routes": 110,
+  "failures": [],
+  "missingPageStatus": 404,
+  "mediaRange": {
+    "status": 206,
+    "range": "bytes 0-1023/2917059",
+    "bytes": 1024
+  }
+}

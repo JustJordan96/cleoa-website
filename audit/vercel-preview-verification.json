@@ -1,0 +1,44 @@
+{
+  "deploymentId": "dpl_4vx2AtD7iER2hrFJhiCutZp5udJf",
+  "url": "https://cleoa-preview-kwizjvoh5-jordans-projects-95de7c5c.vercel.app",
+  "environment": "preview",
+  "date": "2026-11-04",
+  "shareAccessWithoutLogin": true,
+  "title": "Cleo Anderson \u2014 Producer, writer &amp; multimedia creative",
+  "xRobotsTag": "noindex, nofollow",
+  "routesChecked": 110,
+  "routeFailures": [],
+  "resources": {
+    "/not-a-real-page": {
+      "status": 404
+    },
+    "/assets/images/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg.webp": {
+      "status": 200,
+      "type": "image/webp"
+    },
+    "/styles.css": {
+      "status": 200,
+      "type": "text/css; charset=utf-8"
+    },
+    "/app.js": {
+      "status": 200,
+      "type": "application/javascript; charset=utf-8"
+    }
+  },
+  "mediaRanges": {
+    "/assets/audio/2be315_a080c850c9c84669a92a9d68becfbb01.mp3": {
+      "status": 206,
+      "range": "bytes 0-1023/2917059",
+      "bytes": 1024
+    },
+    "/assets/video/2be315_bd0ca4f830044280a75e57a8220876c7.mp4": {
+      "status": 206,
+      "range": "bytes 0-1023/2183480",
+      "bytes": 1024
+    }
+  },
+  "socialImage": {
+    "url": "https://cleoa-preview.vercel.app/assets/images/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg.webp",
+    "statusWithoutLogin": 200
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Cleo Anderson",
+  "domain": "https://www.cleoa.co.uk",
+  "email": "cleoa@hotmail.co.uk",
+  "phones": [
+    {
+      "label": "UK",
+      "display": "+44 7503 000594",
+      "href": "+447503000594"
+    },
+    {
+      "label": "Jamaica",
+      "display": "+1 (876) 871-5249",
+      "href": "+18768715249"
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/cleo-anderson/",
+  "instagram": "https://www.instagram.com/cleocreates/",
+  "portrait": "https://static.wixstatic.com/media/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg",
+  "workingPhoto": "https://static.wixstatic.com/media/2be315_f1e84bb2c6c44880a0a226ad9e380625~mv2.png",
+  "educationPhoto": "https://static.wixstatic.com/media/2be315_e4eb24e66f0348d2ac289230c0b4b16e~mv2.jpg",
+  "contactPhotos": [
+    "https://static.wixstatic.com/media/2be315_1682cf06f90f4cfd8a3d145d10c728e5~mv2.jpeg",
+    "https://static.wixstatic.com/media/2be315_021a7d2339474d11a32db282ac1ab8b8~mv2.png"
+  ],
+  "roles": [
+    {
+      "label": "CNN CREATE",
+      "period": "Current",
+      "title": "Assistant Producer",
+      "organisation": "CREATE, CNN · London",
+      "description": "I’m an Assistant Producer at CREATE, CNN’s global brand studio, working across international campaigns with productions in UAE, Saudi Arabia, Nigeria, and Gabon — to name just a few. My work starts in development, where I research and write production briefs and scripts. On location, I produce shoots, coordinate with crews, and oversee budgets. I then collaborate closely with editors throughout post-production to ensure each project is delivered on schedule and at the highest quality.",
+      "href": "/projects#cnn-create"
+    },
+    {
+      "label": "SAVANT",
+      "period": "Current",
+      "title": "Freelance Development Producer",
+      "organisation": "SAVANT · Hastings",
+      "description": "I am responsible for developing a slate of documentary projects spanning the UK and the Caribbean, across both feature films and series. My work includes crafting creative briefs, pitch decks, and treatments, as well as preparing funding applications and grant submissions to bring projects into production.",
+      "href": "/projects#savant"
+    },
+    {
+      "label": "Threads of Us",
+      "period": "2025",
+      "title": "Line Producer",
+      "organisation": "Threads of Us · Feature film",
+      "description": "An independent feature film, a Jamaican love story exploring injustice and resilience, directed by Mykal Cushnie and written by Donisha Prendergast. It centres on the love between Malcolm, a factory worker, and Danielle, a seamstress, in Kingston, Jamaica. We shot across 9 days in May 2025. Our DP was Wentworth Kelly.",
+      "href": "/projects#film-production"
+    },
+    {
+      "label": "Rotterdam LAB",
+      "period": "2025",
+      "title": "Producer",
+      "organisation": "Rotterdam LAB · International Film Festival Rotterdam",
+      "description": "I was thrilled to be selected for Rotterdam Lab, a renowned workshop for emerging producers to refine their craft and build an international network through panels, round-tables, and networking events!",
+      "href": "/projects#events"
+    }
+  ],
+  "updates": [
+    {
+      "title": "A little sunshine from Bodrum",
+      "category": "CNN CREATE · Türkiye",
+      "summary": "A tourism campaign in Bodrum with photographer and filmmaker Alex Strohl and his family, exploring a different side of the destination.",
+      "href": "https://www.linkedin.com/posts/cleo-anderson_theres-something-kinda-nice-about-shooting-activity-7516517648403283968-0TNz",
+      "workHref": "https://sponsorcontent.cnn.com/edition/2026/goturkiye-com/magic-bodrum/",
+      "observedAge": "2 weeks",
+      "checked": "2026-11-03",
+      "date": "2026-10-15",
+      "dateSource": "LinkedIn public post structured metadata"
+    },
+    {
+      "title": "Making global payments make sense",
+      "category": "CNN CREATE · Equals",
+      "summary": "An explainer film for Equals, written, voiced and produced by Cleo for CNN Create.",
+      "href": "https://www.linkedin.com/posts/cleo-anderson_global-business-payments-solved-cnn-business-activity-7470471512580395009-L_Zi",
+      "workHref": "https://edition.cnn.com/sponsor/equals/global-business-payments-solved",
+      "observedAge": "4 months",
+      "checked": "2026-11-03",
+      "date": "2026-06-10",
+      "dateSource": "LinkedIn public post structured metadata"
+    },
+    {
+      "title": "The restorative power of nature",
+      "category": "BBC StoryWorks · Healthier Together",
+      "summary": "A film co-produced with Helen Barker and Hannah O’Neill, exploring the role of nature in recovery.",
+      "href": "https://www.linkedin.com/posts/cleo-anderson_the-restorative-power-of-nature-activity-7439584487396585472-YDj1",
+      "observedAge": "7 months",
+      "checked": "2026-11-03",
+      "date": "2026-03-17",
+      "dateSource": "LinkedIn public post structured metadata"
+    }
+  ]
+}

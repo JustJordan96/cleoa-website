@@ -1,0 +1,2109 @@
+{
+  "source": "https://www.cleoa.co.uk",
+  "auditedDate": "2026-11-03",
+  "assets": {
+    "https://static.wixstatic.com/media/2be315_d022b96a448242b898b58fa2f8c9040d~mv2.jpg": {
+      "kind": "image",
+      "title": "IMG_0157.JPG",
+      "local": "/assets/images/2be315_d022b96a448242b898b58fa2f8c9040d~mv2.jpg.webp",
+      "bytes": 136296,
+      "width": 1600,
+      "height": 1065,
+      "sha256": "0ebae89b465b260207f35db5b623a07f0d3ea3d379d3718f13e509c443136b6a"
+    },
+    "https://static.wixstatic.com/media/2be315_a6acbc2ec85d492ab679b03b47596296~mv2_d_2048_1365_s_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_a6acbc2ec85d492ab679b03b47596296~mv2_d_2048_1365_s_2.jpg.webp",
+      "bytes": 291532,
+      "width": 1600,
+      "height": 1066,
+      "sha256": "4a5f225346dbe2db6d63be084de1e5933d7b42be69051f6b2dfd958d387845d0"
+    },
+    "https://static.wixstatic.com/media/2be315_881c7f8a40ea4d6db9d286087d0dda4c~mv2.png": {
+      "kind": "image",
+      "title": "ED01E98B-667F-4F04-93A1-838C0CC9527C_1_201_a.jpeg",
+      "local": "/assets/images/2be315_881c7f8a40ea4d6db9d286087d0dda4c~mv2.png.webp",
+      "bytes": 193194,
+      "width": 1600,
+      "height": 900,
+      "sha256": "1cdad6c2b3363436337c743226e76e34afc67d86e24b29da97ad8d4a557834d0"
+    },
+    "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/6ea5b4a88f0b4f91945b40499aa0af00.png.webp",
+      "bytes": 600,
+      "width": 200,
+      "height": 200,
+      "sha256": "4944f6b2917ea570516eeb23f175072503fc4b8cad1092b0f4a4ca87fafd9812"
+    },
+    "https://static.wixstatic.com/media/2be315_af04cccb843446fe9fe326f92f473c99~mv2.png": {
+      "kind": "image",
+      "title": "Site icon",
+      "local": "/assets/images/2be315_af04cccb843446fe9fe326f92f473c99~mv2.png.webp",
+      "bytes": 3296,
+      "width": 255,
+      "height": 128,
+      "sha256": "52062d2d92a5edb3e1756ea60af3f1d13d43376121b9deddebef2544480cb4db"
+    },
+    "https://static.wixstatic.com/media/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg": {
+      "kind": "image",
+      "title": "6G0A0502.jpg",
+      "local": "/assets/images/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg.webp",
+      "bytes": 158292,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "74eba99037c8cc4e93cafe4262098650bae69404cc1dc00f65af40114ef13ac8"
+    },
+    "https://static.wixstatic.com/media/aa0402eb9ba2430d9d0620b59556efca.png": {
+      "kind": "image",
+      "title": "LinkedIn - Black Circle",
+      "local": "/assets/images/aa0402eb9ba2430d9d0620b59556efca.png.webp",
+      "bytes": 1334,
+      "width": 200,
+      "height": 200,
+      "sha256": "693fedcc4eab13abf2f894c25deb8d241ddf08a34d475304ffa0bcf4305d04d5"
+    },
+    "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png": {
+      "kind": "image",
+      "title": "Instagram",
+      "local": "/assets/images/e1aa082f7c0747168d9cf43e77046142.png.webp",
+      "bytes": 2360,
+      "width": 200,
+      "height": 200,
+      "sha256": "806996dd7ea6f975ec368778d75dbdd10e703a663b39153d235ed006f8ab95eb"
+    },
+    "https://static.wixstatic.com/media/2be315_e4eb24e66f0348d2ac289230c0b4b16e~mv2.jpg": {
+      "kind": "image",
+      "title": "FullSizeRender_edited.jpg",
+      "local": "/assets/images/2be315_e4eb24e66f0348d2ac289230c0b4b16e~mv2.jpg.webp",
+      "bytes": 117072,
+      "width": 1420,
+      "height": 1600,
+      "sha256": "ae1e1aa941e05e4edf7967d4b7528f5f44fab5f4d1a1ae2cca97617192a92327"
+    },
+    "https://static.wixstatic.com/media/2be315_f1e84bb2c6c44880a0a226ad9e380625~mv2.png": {
+      "kind": "image",
+      "title": "IMG_0014.HEIC",
+      "local": "/assets/images/2be315_f1e84bb2c6c44880a0a226ad9e380625~mv2.png.webp",
+      "bytes": 241668,
+      "width": 1200,
+      "height": 1600,
+      "sha256": "0612ec5286cb248c2abe59d0dd9fa0c22d9b758d9501311ac25619d9b1e62537"
+    },
+    "https://static.wixstatic.com/media/2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg": {
+      "kind": "image",
+      "title": "CNN Create Logo.jpg",
+      "local": "/assets/images/2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg.webp",
+      "bytes": 10488,
+      "width": 900,
+      "height": 900,
+      "sha256": "12182b7e8c0d51f11597d4dd4dc0fb88aa4f9bcdefd9310da395f2b79f2b30a3"
+    },
+    "https://static.wixstatic.com/media/2be315_1682cf06f90f4cfd8a3d145d10c728e5~mv2.jpeg": {
+      "kind": "image",
+      "title": "20240919_RKeus_5569.JPEG",
+      "local": "/assets/images/2be315_1682cf06f90f4cfd8a3d145d10c728e5~mv2.jpeg.webp",
+      "bytes": 105610,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "006facdc7a09212f2cee013ef6be9452d84f25875fbb307151a49ddc126c6776"
+    },
+    "https://static.wixstatic.com/media/2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png": {
+      "kind": "image",
+      "title": "2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png",
+      "local": "/assets/images/2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png.webp",
+      "bytes": 9778,
+      "width": 300,
+      "height": 300,
+      "sha256": "f5bc4dc967f27b9fe2209c75543c45da45991f95685a0e3fce14d441931a98d1"
+    },
+    "https://static.wixstatic.com/media/2be315_021a7d2339474d11a32db282ac1ab8b8~mv2.png": {
+      "kind": "image",
+      "title": "IMG_8561.HEIC",
+      "local": "/assets/images/2be315_021a7d2339474d11a32db282ac1ab8b8~mv2.png.webp",
+      "bytes": 158742,
+      "width": 1200,
+      "height": 1600,
+      "sha256": "2278b4c121c5751b7e16914e0275d00f1bd2bf605fba1d90ccc2c59bb290ffb0"
+    },
+    "https://static.wixstatic.com/media/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg": {
+      "kind": "image",
+      "title": "2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg",
+      "local": "/assets/images/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg.webp",
+      "bytes": 19168,
+      "width": 1600,
+      "height": 1600,
+      "sha256": "7c116d82c6cdb0e46d29580426642925f6f5351078abae3a9bdde1835fa034f2"
+    },
+    "https://static.wixstatic.com/media/035244_4b88cff670d5444fb5e46e04c79a248e~mv2_d_3124_3129_s_4_2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/035244_4b88cff670d5444fb5e46e04c79a248e~mv2_d_3124_3129_s_4_2.png.webp",
+      "bytes": 1114540,
+      "width": 1597,
+      "height": 1600,
+      "sha256": "2b7f60935f631acfaad421d1b7a221cd5bad593d8da7c6a9f7ee5e5c703cb60b"
+    },
+    "https://static.wixstatic.com/media/nsplsh_390cb4c880ee4cc785ad9cb8ab1508db~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_390cb4c880ee4cc785ad9cb8ab1508db~mv2.jpg.webp",
+      "bytes": 158960,
+      "width": 1067,
+      "height": 1600,
+      "sha256": "7bf24edf693c2a760ac45d491a60591b69abfc4197e5a306879cef3cdcd6a4f3"
+    },
+    "https://static.wixstatic.com/media/nsplsh_56687142683231757a306b~mv2_d_4198_3456_s_4_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_56687142683231757a306b~mv2_d_4198_3456_s_4_2.jpg.webp",
+      "bytes": 177342,
+      "width": 1600,
+      "height": 1317,
+      "sha256": "200a79985d23d32ce4617f71e39da1bafc4793255c8ee8066fed63fe3dd3ab64"
+    },
+    "https://static.wixstatic.com/media/nsplsh_42586b2d4e3266504c596f~mv2_d_4056_3040_s_4_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_42586b2d4e3266504c596f~mv2_d_4056_3040_s_4_2.jpg.webp",
+      "bytes": 574136,
+      "width": 1600,
+      "height": 1199,
+      "sha256": "e18abf36d74bd0b890d5557f90749865ea9253a117d8387c20ec3e0487e3c7bb"
+    },
+    "https://static.wixstatic.com/media/nsplsh_72306545446e3147414b77~mv2_d_5786_3857_s_4_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_72306545446e3147414b77~mv2_d_5786_3857_s_4_2.jpg.webp",
+      "bytes": 191512,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "245bd955d198b3c5f01c902fd46710d29590f3b08d6c1f20b27c2eeb6dd9d713"
+    },
+    "https://static.wixstatic.com/media/2be315_51511077145e4fab9da7bef0a8dd48dc~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_51511077145e4fab9da7bef0a8dd48dc~mv2.png.webp",
+      "bytes": 45906,
+      "width": 851,
+      "height": 315,
+      "sha256": "48012f99cba695cd5391c6682fb3cf70dc3336adc00aaba948a1489b42391b4b"
+    },
+    "https://static.wixstatic.com/media/2be315_c5d5d66d46b7472ebcb1806dc8206591~mv2.png": {
+      "kind": "image",
+      "title": "Posted by accounts @bobmarley, @paramountpicscc, @ziggymarley, @paramountpics, @onelovemovie, @tuffgongworldwide. Screenshots show the 2nd, 8th, 7th, 4th, images from the carousel post.",
+      "local": "/assets/images/2be315_c5d5d66d46b7472ebcb1806dc8206591~mv2.png.webp",
+      "bytes": 187116,
+      "width": 1286,
+      "height": 1158,
+      "sha256": "e3af4d4f97583743b42b44311f2ee92b4bb52fce565a6c88266fb4581db9724f"
+    },
+    "https://static.wixstatic.com/media/2be315_347c0aec6b484ece95a58946f2fab5cf~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_347c0aec6b484ece95a58946f2fab5cf~mv2.png.webp",
+      "bytes": 50098,
+      "width": 851,
+      "height": 315,
+      "sha256": "d7f0f848f7bb267abd2fc119b788d78e2f4792f89b600da8e96da4eefd9cd091"
+    },
+    "https://static.wixstatic.com/media/nsplsh_58315a4b5363364e4d5741~mv2_d_2736_4104_s_4_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_58315a4b5363364e4d5741~mv2_d_2736_4104_s_4_2.jpg.webp",
+      "bytes": 329330,
+      "width": 1067,
+      "height": 1600,
+      "sha256": "e4299f1973bda177f39191015cae0a87f085f1bd63ea6a1763362b3993ebb881"
+    },
+    "https://static.wixstatic.com/media/nsplsh_6c5133676f364d4e507a6f~mv2_d_4375_3281_s_4_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_6c5133676f364d4e507a6f~mv2_d_4375_3281_s_4_2.jpg.webp",
+      "bytes": 44298,
+      "width": 1600,
+      "height": 1200,
+      "sha256": "7e20235e74499cb7ff3dfc1d92192d81965d2d410ea3d6633f4d3f98161783fa"
+    },
+    "https://static.wixstatic.com/media/nsplsh_f4752b6abacd41f58d09c50616228ed5~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_f4752b6abacd41f58d09c50616228ed5~mv2.jpg.webp",
+      "bytes": 473548,
+      "width": 1600,
+      "height": 900,
+      "sha256": "47c475e812c7f71aa3e2e4c019b57def980a21a321cdce7a8532315494b204b7"
+    },
+    "https://static.wixstatic.com/media/2be315_fdfffbd4fde34c04b3a7df65b99aa92f~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_fdfffbd4fde34c04b3a7df65b99aa92f~mv2.jpg.webp",
+      "bytes": 37142,
+      "width": 640,
+      "height": 640,
+      "sha256": "46e4f6425d1cc815077e61afef07c3160e05cb896af073d7638e360a11a76c15"
+    },
+    "https://static.wixstatic.com/media/2be315_85a6bcadb9884682bc2fdc5755fee1fd~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_85a6bcadb9884682bc2fdc5755fee1fd~mv2.jpg.webp",
+      "bytes": 126470,
+      "width": 640,
+      "height": 640,
+      "sha256": "2b7552a765f320dc08c58d5cda6e3f5352acfab12beab3481497757e44b359f6"
+    },
+    "https://static.wixstatic.com/media/2be315_2b6bc9a0b5bc48cf9e3adfb7b203b056~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_2b6bc9a0b5bc48cf9e3adfb7b203b056~mv2.jpg.webp",
+      "bytes": 18148,
+      "width": 554,
+      "height": 383,
+      "sha256": "a8b80065392f35c6520f238a3e651135e5b1ac2095e4716fa83111f1a53fb08a"
+    },
+    "https://static.wixstatic.com/media/2be315_6a13f20ba1c04c78837b10e6a4b67260~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_6a13f20ba1c04c78837b10e6a4b67260~mv2.jpg.webp",
+      "bytes": 84308,
+      "width": 640,
+      "height": 640,
+      "sha256": "5959f88adaa43bbe4c5d6db256ca53d8ef61cb7a3d24d79f6f0838381bb018bc"
+    },
+    "https://static.wixstatic.com/media/2be315_2acc2a4100bc49edb1dd84ac3091228d~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_2acc2a4100bc49edb1dd84ac3091228d~mv2.jpg.webp",
+      "bytes": 66514,
+      "width": 720,
+      "height": 720,
+      "sha256": "ca56392e0bf7bdabdfa1f3c1239c681111effe2a47b045bde2a062cad64070b8"
+    },
+    "https://static.wixstatic.com/media/11062b_f8beecb5cb8e47a6bb5c744921485f49~mv2.jpeg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/11062b_f8beecb5cb8e47a6bb5c744921485f49~mv2.jpeg.webp",
+      "bytes": 121710,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "304e4b6409f42d6357840ad8c40902ba6f9d7f0a3d76f9040c3469a91f52fa78"
+    },
+    "https://static.wixstatic.com/media/2be315_d39387b94bc54dac8f157450be7e233a~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_d39387b94bc54dac8f157450be7e233a~mv2.png.webp",
+      "bytes": 40338,
+      "width": 851,
+      "height": 315,
+      "sha256": "5621bb1c38c5cce757debd5869e9b84b37a7bc3640bc05490a74b205b02d4d41"
+    },
+    "https://static.wixstatic.com/media/nsplsh_7164506e51754765757755~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_7164506e51754765757755~mv2.jpg.webp",
+      "bytes": 147126,
+      "width": 1600,
+      "height": 1600,
+      "sha256": "7997ebfc659c3efc60f206d0cc1fa5d8b6d57c2c07313f6e641a2a484a953dad"
+    },
+    "https://static.wixstatic.com/media/2be315_3e239c51bc4d44da8247a9c56d62cec4~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_3e239c51bc4d44da8247a9c56d62cec4~mv2.jpg.webp",
+      "bytes": 1059828,
+      "width": 2787,
+      "height": 3543,
+      "sha256": "167afe828d10bdbda8d0ea96bbf6d392e4ead082d74b13a1ebc14e206fa778cd"
+    },
+    "https://www.vision2030.gov.jm/wp-content/uploads/sites/2/2022/11/Culture-Creative-Industries-and-Values-Sector-Plan-1.pdf": {
+      "kind": "document",
+      "title": "https://www.vision2030.gov.jm/wp-content/uploads/sites/2/2022/11/Culture-Creative-",
+      "local": "/assets/documents/Culture-Creative-Industries-and-Values-Sector-Plan-1.pdf",
+      "bytes": 2283902,
+      "sha256": "398e7651eb8e8f9d671e36f4f3fd3ce1340699b8f632e7e347296876e757d96d"
+    },
+    "https://static.wixstatic.com/media/2be315_12353b1a078f4a66b864b66607915de5~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_12353b1a078f4a66b864b66607915de5~mv2.jpg.webp",
+      "bytes": 100896,
+      "width": 720,
+      "height": 720,
+      "sha256": "0fe995a8d703e94b7b288990b7f55b3719cac2d2609be7203f96e53cc33cac01"
+    },
+    "https://static.wixstatic.com/media/2be315_312a4bcd2b10446bacabb8d37c2c9916~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_312a4bcd2b10446bacabb8d37c2c9916~mv2.jpg.webp",
+      "bytes": 17614,
+      "width": 640,
+      "height": 437,
+      "sha256": "43f05e74484b5784b445653e508d4fd88f25308e80862d96eea6cf2c27fc30d7"
+    },
+    "https://static.wixstatic.com/media/nsplsh_3fe84b2ddfb04f7299da799a47223c74~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_3fe84b2ddfb04f7299da799a47223c74~mv2.jpg.webp",
+      "bytes": 232876,
+      "width": 1600,
+      "height": 1096,
+      "sha256": "41a460348ec0bfe2c5a88fbf74eacb4383fbc02a1ea55fcadbb4eeff8e7a1849"
+    },
+    "https://static.wixstatic.com/media/2be315_0aa771e06e8a40dfa9b95a362327845a~mv2_d_3200_1310_s_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_0aa771e06e8a40dfa9b95a362327845a~mv2_d_3200_1310_s_2.jpg.webp",
+      "bytes": 111052,
+      "width": 1600,
+      "height": 655,
+      "sha256": "97409056c44641a3b7e8c8b251954929f3021aeb801d38fb888d517be3ea9391"
+    },
+    "https://static.wixstatic.com/media/2be315_438f4d067a7244589ce230200e9f085b~mv2_d_1844_1844_s_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_438f4d067a7244589ce230200e9f085b~mv2_d_1844_1844_s_2.jpg.webp",
+      "bytes": 454994,
+      "width": 1600,
+      "height": 1600,
+      "sha256": "83213da2838db88bedb15f3d6c135300c00db5fd9bcef8fde593008ef4f26cbf"
+    },
+    "https://static.wixstatic.com/media/2be315_fcb0cc71ce9d4481bf87154c4396ee44~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_fcb0cc71ce9d4481bf87154c4396ee44~mv2.png.webp",
+      "bytes": 35234,
+      "width": 851,
+      "height": 315,
+      "sha256": "2994bbe9422f259b4404c61cd7a17d0d47b721547a878d2829a98b198f606a95"
+    },
+    "https://static.wixstatic.com/media/70d0a3174df24108bd65f4a6214d927e.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/70d0a3174df24108bd65f4a6214d927e.jpg.webp",
+      "bytes": 460178,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "5b1f6d16af216a8d03d7f7beb4456fa6aa0f94cfb24eba54c8fa9cd4d02987af"
+    },
+    "https://static.wixstatic.com/media/2be315_653886aba28a4a0d8819992cc502e605~mv2.jpg": {
+      "kind": "image",
+      "title": "Cleo Scuba Diving In Negril",
+      "local": "/assets/images/2be315_653886aba28a4a0d8819992cc502e605~mv2.jpg.webp",
+      "bytes": 65438,
+      "width": 1200,
+      "height": 1200,
+      "sha256": "bc1529d8bf1065e58e26fcb796ea9765b51f2d36c8d4768692c395274fca18ea"
+    },
+    "https://static.wixstatic.com/media/6d01f2f42aac4f98bdea4b98449d5e5e.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/6d01f2f42aac4f98bdea4b98449d5e5e.jpg.webp",
+      "bytes": 92428,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "1e691f4ab5831fbd2039682ed668a32a454ca6bd40ac449ca2a67532009c124c"
+    },
+    "https://static.wixstatic.com/media/2be315_031bab9353494f09aef50c8fde5fc03b~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_031bab9353494f09aef50c8fde5fc03b~mv2.jpg.webp",
+      "bytes": 72044,
+      "width": 1200,
+      "height": 1200,
+      "sha256": "033191ee1fbc95b9b399dbc63fa49d9d1195a272fa20bed321081205e3186dc1"
+    },
+    "https://static.wixstatic.com/media/nsplsh_06cc272d5816479fb8dd54d0c29b964c~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_06cc272d5816479fb8dd54d0c29b964c~mv2.jpg.webp",
+      "bytes": 112462,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "19cfa73d6b64302a8ff151dae4f73208a87964da4e4721d2315a64b6cd957bee"
+    },
+    "https://static.wixstatic.com/media/nsplsh_5f3532697156514b457355~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_5f3532697156514b457355~mv2.jpg.webp",
+      "bytes": 258496,
+      "width": 1600,
+      "height": 900,
+      "sha256": "35cfffeadda23bf7350fec929578b867cca8f744cb28d3a02df18266a1b1a556"
+    },
+    "https://static.wixstatic.com/media/nsplsh_5751433848764155325359~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/nsplsh_5751433848764155325359~mv2.jpg.webp",
+      "bytes": 338320,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "8a4f51c1b63f73e6655a3595785381af40f9e94c00d51a17abc59a01a8bd3820"
+    },
+    "https://static.wixstatic.com/media/2be315_569292baebc94e0ab9ca6f3ddc7a224b~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_569292baebc94e0ab9ca6f3ddc7a224b~mv2.png.webp",
+      "bytes": 32272,
+      "width": 851,
+      "height": 315,
+      "sha256": "a2e5c732b4343819ed7a88d12d0b646ede2f10625c58fdbccfd7b9ac89ba45f1"
+    },
+    "https://static.wixstatic.com/media/2be315_4e5e36e24b9d4361913c423f72f677da~mv2.jpg": {
+      "kind": "image",
+      "title": "CNN Create Logo.jpg",
+      "local": "/assets/images/2be315_4e5e36e24b9d4361913c423f72f677da~mv2.jpg.webp",
+      "bytes": 10488,
+      "width": 900,
+      "height": 900,
+      "sha256": "12182b7e8c0d51f11597d4dd4dc0fb88aa4f9bcdefd9310da395f2b79f2b30a3"
+    },
+    "https://static.wixstatic.com/media/2be315_cea0c4caa7b04bfeb9780a301b82bfb6~mv2_d_5184_3456_s_4_2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_cea0c4caa7b04bfeb9780a301b82bfb6~mv2_d_5184_3456_s_4_2.jpg.webp",
+      "bytes": 244894,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "50f1efbea02815a95acce8283a04bfd1beba14b2e30f6c20d3b2d37979429dfa"
+    },
+    "https://static.wixstatic.com/media/2be315_061dad4ff90b48e69689f065367661e6~mv2.png": {
+      "kind": "image",
+      "title": "Screenshot 2025-07-13 at 14.42.31",
+      "local": "/assets/images/2be315_061dad4ff90b48e69689f065367661e6~mv2.png.webp",
+      "bytes": 78918,
+      "width": 790,
+      "height": 1170,
+      "sha256": "67385585eb27a9eadbfd86539b11c22ec93eb3e7e6e00c04d25f985af0896f8e"
+    },
+    "https://static.wixstatic.com/media/2be315_00bdd3937d164d57b01bdf03e4559b07~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_00bdd3937d164d57b01bdf03e4559b07~mv2.jpg.webp",
+      "bytes": 65990,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5245ac0529e55d8c08f8e77846f78fe0c004604fb147ee69ab50891bc71792e"
+    },
+    "https://static.wixstatic.com/media/2be315_833a6b6e2e9145059a00a3997a3e50da~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_833a6b6e2e9145059a00a3997a3e50da~mv2.png.webp",
+      "bytes": 40166,
+      "width": 851,
+      "height": 315,
+      "sha256": "ba7815225a07fce8520e67355732b913fa9ccd72ec9f3bf761c7adc6e9f71f8c"
+    },
+    "https://static.wixstatic.com/media/2be315_1000c08ae9094177b4746180f20e5f17~mv2.jpeg": {
+      "kind": "image",
+      "title": "WhatsApp Image 2025-06-01 at 17.07.18",
+      "local": "/assets/images/2be315_1000c08ae9094177b4746180f20e5f17~mv2.jpeg.webp",
+      "bytes": 204082,
+      "width": 1066,
+      "height": 1600,
+      "sha256": "47b0bf2c03131fe5d1d57ede37177d325194c1ec96229d6792c102cfb3b1d35c"
+    },
+    "https://static.wixstatic.com/media/2be315_0d10482a0e2d44d4bdb77d3d032f1112~mv2.jpg": {
+      "kind": "image",
+      "title": "EB2D8D8F-2956-4D71-B63F-68356CC0980C",
+      "local": "/assets/images/2be315_0d10482a0e2d44d4bdb77d3d032f1112~mv2.jpg.webp",
+      "bytes": 59676,
+      "width": 900,
+      "height": 1600,
+      "sha256": "7cf445de695c90753ac02ba41440a6693f7df6fc3751a4c6df3a9fa7cc5e7b28"
+    },
+    "https://static.wixstatic.com/media/2be315_c570ccc0bf7e4828a76db68efeff92b8~mv2.jpeg": {
+      "kind": "image",
+      "title": "WhatsApp Image 2025-05-29 at 20.22.24 (2)",
+      "local": "/assets/images/2be315_c570ccc0bf7e4828a76db68efeff92b8~mv2.jpeg.webp",
+      "bytes": 36576,
+      "width": 1280,
+      "height": 720,
+      "sha256": "cda8486d95a1d30aa241b02ec2b1fa16482f29aa9b4b62f242074ce251a8b3f3"
+    },
+    "https://static.wixstatic.com/media/2be315_ea5adcf68d654dbf95c67537ad48b220~mv2.jpg": {
+      "kind": "image",
+      "title": "24EDDB8C-9D38-4955-91F3-9560F77ABDEF",
+      "local": "/assets/images/2be315_ea5adcf68d654dbf95c67537ad48b220~mv2.jpg.webp",
+      "bytes": 111724,
+      "width": 900,
+      "height": 1600,
+      "sha256": "1b368846d293f0637d447aafa85972276a4f01d1922432b363f8d16aaf87f16e"
+    },
+    "https://static.wixstatic.com/media/2be315_e18fc92a0eb144d28a7777a4a6fe0f09~mv2.jpeg": {
+      "kind": "image",
+      "title": "WhatsApp Image 2025-07-07 at 16.13.27",
+      "local": "/assets/images/2be315_e18fc92a0eb144d28a7777a4a6fe0f09~mv2.jpeg.webp",
+      "bytes": 49394,
+      "width": 480,
+      "height": 565,
+      "sha256": "9d883295a922a36f8bde8a6143422e22af594ae1a15ee64237efde46be581af1"
+    },
+    "https://static.wixstatic.com/media/2be315_4cb611747a8e442199e68626ef03dd66~mv2.png": {
+      "kind": "image",
+      "title": "IMG_7221",
+      "local": "/assets/images/2be315_4cb611747a8e442199e68626ef03dd66~mv2.png.webp",
+      "bytes": 105090,
+      "width": 900,
+      "height": 1600,
+      "sha256": "dadf569ab457fbc2108d458f1303564f2c7e4471ae60a512e6f12ecbbc9e5fa4"
+    },
+    "https://static.wixstatic.com/media/2be315_d289dc2384504fa997364c90ec7f2db1~mv2.webp": {
+      "kind": "image",
+      "title": "Dash_web-48_resized_c442f82c-772a-4cfb-ac3e-7e0ad8d4a31d.jpg.webp",
+      "local": "/assets/images/2be315_d289dc2384504fa997364c90ec7f2db1~mv2.webp.webp",
+      "bytes": 50488,
+      "width": 900,
+      "height": 450,
+      "sha256": "6b5c8827f8f3a25ab19e4250226b1cb1bef1743b97bf259ebf30e36bdf79f82d"
+    },
+    "https://static.wixstatic.com/media/2be315_53e3d904ab5d4ae8a48f9abbfd79836a~mv2.png": {
+      "kind": "image",
+      "title": "IMG_3627",
+      "local": "/assets/images/2be315_53e3d904ab5d4ae8a48f9abbfd79836a~mv2.png.webp",
+      "bytes": 77358,
+      "width": 900,
+      "height": 1600,
+      "sha256": "48c1b80d0d127c0c87a0da5a9642e07ab9ddbd3042f028d947d2e3704d374d18"
+    },
+    "https://static.wixstatic.com/media/2be315_ad2897a4de3943ad99bdd89974a58f93~mv2.png": {
+      "kind": "image",
+      "title": "Screenshot 2022-01-25 at 16.32.46",
+      "local": "/assets/images/2be315_ad2897a4de3943ad99bdd89974a58f93~mv2.png.webp",
+      "bytes": 94952,
+      "width": 1398,
+      "height": 934,
+      "sha256": "d88adbaeb69f329ec35f02dee5f3bea446c91c9c5a3adbd0352895b264c2b297"
+    },
+    "https://static.wixstatic.com/media/2be315_3e9c0dcfb0dd4f19a3f9ffa96e5b5fb9~mv2.png": {
+      "kind": "image",
+      "title": "420A164F-8725-49A9-AD47-EB5959A6F61A",
+      "local": "/assets/images/2be315_3e9c0dcfb0dd4f19a3f9ffa96e5b5fb9~mv2.png.webp",
+      "bytes": 158880,
+      "width": 1600,
+      "height": 1200,
+      "sha256": "036c09f43afe80e34a2f9e51977b04a7f7b9a3dfa32f98543515444f2d6c43ce"
+    },
+    "https://static.wixstatic.com/media/2be315_515b13d68b4d41e28f215bb395cfc36f~mv2.png": {
+      "kind": "image",
+      "title": "83AD0412-B764-4E93-88A7-D0EE68331F08",
+      "local": "/assets/images/2be315_515b13d68b4d41e28f215bb395cfc36f~mv2.png.webp",
+      "bytes": 482616,
+      "width": 1600,
+      "height": 1200,
+      "sha256": "e8ea9a91a395f21affa02c941a8b9f05a731f012814d05357710412f4fedef63"
+    },
+    "https://static.wixstatic.com/media/2be315_e8439f00a9764f7e927eac392383a255~mv2.png": {
+      "kind": "image",
+      "title": "F1243959-840B-4C03-8777-054ED26A1CB6",
+      "local": "/assets/images/2be315_e8439f00a9764f7e927eac392383a255~mv2.png.webp",
+      "bytes": 165376,
+      "width": 1600,
+      "height": 1200,
+      "sha256": "526f634f6102edfc39b918c60c0c56b7837f79c01d3ab84f0952a2d41c024586"
+    },
+    "https://static.wixstatic.com/media/2be315_1d7074be55e74f1196dcb44e7fb9dd7bf002.jpg": {
+      "kind": "image",
+      "title": "Lynk - The Power of Motherhood",
+      "local": "/assets/images/2be315_1d7074be55e74f1196dcb44e7fb9dd7bf002.jpg.webp",
+      "bytes": 86306,
+      "width": 1600,
+      "height": 900,
+      "sha256": "4d043f8c979aed448f57abd5526ec2377abe0f5b074dac0baad041fa5927df23"
+    },
+    "https://i.ytimg.com/vi/gaYzCmnhj8E/mqdefault.jpg": {
+      "kind": "image",
+      "title": "#ChillinWidGrace Chef It Wayne Marshall vs Ding Dong Cookoff",
+      "local": "/assets/images/youtube-gaYzCmnhj8E-mqdefault.jpg.webp",
+      "bytes": 19402,
+      "width": 320,
+      "height": 180,
+      "sha256": "cb045b47dcad32d8ddfd80f6ab6383ff85dc13ccb22139229c43e0499cd922ee"
+    },
+    "https://i.ytimg.com/vi/jTAS23APNAs/mqdefault.jpg": {
+      "kind": "image",
+      "title": "NCBCM Wealth Unlocked: Episode 1 with Dr. Joy Spence",
+      "local": "/assets/images/youtube-jTAS23APNAs-mqdefault.jpg.webp",
+      "bytes": 6980,
+      "width": 320,
+      "height": 180,
+      "sha256": "9d47819d2ec19a630bb22a3b9ab0a80dd67d2562c802e418b514313c136b59fd"
+    },
+    "https://i.ytimg.com/vi/oJcR7pgbSrY/mqdefault.jpg": {
+      "kind": "image",
+      "title": "Unlocking Dreams With Lesline Aiken",
+      "local": "/assets/images/youtube-oJcR7pgbSrY-mqdefault.jpg.webp",
+      "bytes": 4944,
+      "width": 320,
+      "height": 180,
+      "sha256": "dabcc78015f7b1816e6b0b22109399b6d858dddea208eb915ac056bd8b095a0d"
+    },
+    "https://i.ytimg.com/vi/sYWsxZehPeE/mqdefault.jpg": {
+      "kind": "image",
+      "title": "#ChillinWidGrace Quite Perry vs TC",
+      "local": "/assets/images/youtube-sYWsxZehPeE-mqdefault.jpg.webp",
+      "bytes": 14202,
+      "width": 320,
+      "height": 180,
+      "sha256": "a7c55bdaba0e1333b63c83255d61d55fc59b838a80203fc2e10a98e26bbb691b"
+    },
+    "https://static.wixstatic.com/media/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9f000.jpg": {
+      "kind": "image",
+      "title": "JPS - Aunty Donna - Grand Bonanza Giveaway",
+      "local": "/assets/images/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9f000.jpg.webp",
+      "bytes": 84566,
+      "width": 1280,
+      "height": 720,
+      "sha256": "8a3fcf5d639abe533f1f2796d6be48c59ef4b34915d172d099215c2297c01d3a"
+    },
+    "https://i.ytimg.com/vi/KOww5YUozcc/mqdefault.jpg": {
+      "kind": "image",
+      "title": "N.C.B. Foundation 2021 Grant a Wish | Thank You Jamaica!",
+      "local": "/assets/images/youtube-KOww5YUozcc-mqdefault.jpg.webp",
+      "bytes": 7328,
+      "width": 320,
+      "height": 180,
+      "sha256": "1cea7ae272eb92d4be8f076c866c3cdd7173e95692de4d432b57059fe8a5b084"
+    },
+    "https://static.wixstatic.com/media/2be315_676d23e941ba42ff88c480b5dce31160~mv2.jpg": {
+      "kind": "image",
+      "title": "unnamed.jpg",
+      "local": "/assets/images/2be315_676d23e941ba42ff88c480b5dce31160~mv2.jpg.webp",
+      "bytes": 15500,
+      "width": 900,
+      "height": 900,
+      "sha256": "df562c3dac636f1f5eaf878fd791218a5d09e32fec2b0e15b61d2c83136455af"
+    },
+    "https://i.ytimg.com/vi/JLN0i13gjkA/mqdefault.jpg": {
+      "kind": "image",
+      "title": "NCB Grants a Wish to Banana Ground",
+      "local": "/assets/images/youtube-JLN0i13gjkA-mqdefault.jpg.webp",
+      "bytes": 8182,
+      "width": 320,
+      "height": 180,
+      "sha256": "e6fd8b9a4c2e3deb2500a43c3871180f2b11baac5520d7a8127079a5fb036c1a"
+    },
+    "https://static.wixstatic.com/media/2be315_1f90b859f7224ec1b3dd946a4d27e893~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_1f90b859f7224ec1b3dd946a4d27e893~mv2.png.webp",
+      "bytes": 12762,
+      "width": 1600,
+      "height": 896,
+      "sha256": "f4a000267d08c6113b95b5c7fbab7412b5a5c9519949c05eb066fe226738782c"
+    },
+    "https://static.wixstatic.com/media/2be315_b981266278bc420c9057898b2328c7cf~mv2.webp": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_b981266278bc420c9057898b2328c7cf~mv2.webp.webp",
+      "bytes": 10210,
+      "width": 1407,
+      "height": 196,
+      "sha256": "ae3502000a5b83db6435f6b9a58578a74f614a6dd4926b18419c1fafeed75fc6"
+    },
+    "https://static.wixstatic.com/media/2be315_4d61bee0598f4594a43261ef7747969e~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_4d61bee0598f4594a43261ef7747969e~mv2.jpg.webp",
+      "bytes": 100212,
+      "width": 948,
+      "height": 632,
+      "sha256": "3a406b48dce71d7790567a3746a9791c8d3f8f99dae6b020c31aa4a7f62c54ba"
+    },
+    "https://static.wixstatic.com/media/2be315_7f9e4734d1c24a7c9737be4873598e2e~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_7f9e4734d1c24a7c9737be4873598e2e~mv2.png.webp",
+      "bytes": 36412,
+      "width": 500,
+      "height": 500,
+      "sha256": "091c6fe47e6471e5c9a5f32530c4bf2f58ee3aec4f7edf797a0a37f2e53139d2"
+    },
+    "https://i.ytimg.com/vi/DOma2KCFIDI/maxresdefault.jpg": {
+      "kind": "image",
+      "title": "A Short Guide to Beirut",
+      "local": "/assets/images/youtube-DOma2KCFIDI-maxresdefault.jpg.webp",
+      "bytes": 74376,
+      "width": 1280,
+      "height": 720,
+      "sha256": "ae37307340ac5cd160cd30d878629e96db9e4469b4405b85054445b19dcfcf13"
+    },
+    "https://i.ytimg.com/vi/PuJYMkFHF7w/maxresdefault.jpg": {
+      "kind": "image",
+      "title": "To Fly Or Not To Fly?",
+      "local": "/assets/images/youtube-PuJYMkFHF7w-maxresdefault.jpg.webp",
+      "bytes": 135556,
+      "width": 1280,
+      "height": 720,
+      "sha256": "05b323b1a51a9047055b5ef0bf2de7cf7f81fecccf98477b7b9f671b8cc95b6c"
+    },
+    "https://static.wixstatic.com/media/2be315_f4a52ff7fad449dd9656792525a8f832~mv2.png": {
+      "kind": "image",
+      "title": "Laytrous.PNG",
+      "local": "/assets/images/2be315_f4a52ff7fad449dd9656792525a8f832~mv2.png.webp",
+      "bytes": 109362,
+      "width": 856,
+      "height": 743,
+      "sha256": "873c32e498acc1c3edb77cd9735a852dc7e4314a374bcd6290bc0e40e2d7a674"
+    },
+    "https://static.wixstatic.com/media/2be315_ecff32f7ab9d4fb0b59a1eddb0591b27~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_ecff32f7ab9d4fb0b59a1eddb0591b27~mv2.png.webp",
+      "bytes": 70420,
+      "width": 1280,
+      "height": 717,
+      "sha256": "af9f8ca1f3f2636abfd9eb2989d00a0d4b5e957cd8a50816dc3acc2ff8b3757f"
+    },
+    "https://static.wixstatic.com/media/2be315_35573b0dc2264c49a938ec0361a9503e~mv2_d_3024_4032_s_4_2.jpeg": {
+      "kind": "image",
+      "title": "IMG_1339.jpeg",
+      "local": "/assets/images/2be315_35573b0dc2264c49a938ec0361a9503e~mv2_d_3024_4032_s_4_2.jpeg.webp",
+      "bytes": 352158,
+      "width": 1200,
+      "height": 1600,
+      "sha256": "74668db36b2b8142f350f9d827a5af306589a3c71811976503945e3cbf20f139"
+    },
+    "https://static.wixstatic.com/media/2be315_4606b6aa6e52449bbe7a62246ecf54eb~mv2.png": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_4606b6aa6e52449bbe7a62246ecf54eb~mv2.png.webp",
+      "bytes": 59472,
+      "width": 1267,
+      "height": 764,
+      "sha256": "c00488fdc6cc295247a1dbe8983cb743a0d1faf36c49a8325b1c5a95754c7a05"
+    },
+    "https://static.wixstatic.com/media/2be315_961676673fb64b778c24fa6e025b3c2a~mv2.jpg": {
+      "kind": "image",
+      "title": "Future News Worldwide alumni - 11 July 2",
+      "local": "/assets/images/2be315_961676673fb64b778c24fa6e025b3c2a~mv2.jpg.webp",
+      "bytes": 269010,
+      "width": 1417,
+      "height": 946,
+      "sha256": "3e1c584aa9689e3ca4f14fc3aaa8ced1a2a9ab0b3ef288c6419978687f0e55ed"
+    },
+    "https://static.wixstatic.com/media/2be315_3989111ab41c424699a57ac06991968c~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2017-07-07 at 11.46.55.png",
+      "local": "/assets/images/2be315_3989111ab41c424699a57ac06991968c~mv2.png.webp",
+      "bytes": 131118,
+      "width": 1600,
+      "height": 900,
+      "sha256": "615b176981430afed7f3212cd9334426d74ee64689ed806d68b93718944916be"
+    },
+    "https://i.ytimg.com/vi/9SjVzjYOx_8/hqdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-9SjVzjYOx_8-hqdefault.jpg.webp",
+      "bytes": 24196,
+      "width": 480,
+      "height": 360,
+      "sha256": "108087139dfcbd91f3f4c28c00fcfc73121bc88bf52f784fb8050660fa5baaba"
+    },
+    "https://i.ytimg.com/vi/TPhNr8iqHxk/hqdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-TPhNr8iqHxk-hqdefault.jpg.webp",
+      "bytes": 9380,
+      "width": 480,
+      "height": 360,
+      "sha256": "8a6650baa1b27973b579a75b668f9cb6cf43fe7c18789f2695b38feeced47ca7"
+    },
+    "https://i.ytimg.com/vi/6wny1zoYYkI/hqdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-6wny1zoYYkI-hqdefault.jpg.webp",
+      "bytes": 22542,
+      "width": 480,
+      "height": 360,
+      "sha256": "6634bca92f9d6e727f69c79557291562a9d035754113d2c2ace77e62e8ec8649"
+    },
+    "https://video.wixstatic.com/video/2be315_bd0ca4f830044280a75e57a8220876c7/360p/mp4/file.mp4": {
+      "kind": "video",
+      "title": "Your Video Title",
+      "local": "/assets/video/2be315_bd0ca4f830044280a75e57a8220876c7.mp4",
+      "bytes": 2183480,
+      "sha256": "0b1960892cb315ab1e1f20772712ca38853dcb73fa2a203ccb54abaa0e280789"
+    },
+    "https://static.wixstatic.com/media/2be315_529ca17da3e0436cb385c3cf1e8a8dde~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2019-03-28 at 18.19.22.png",
+      "local": "/assets/images/2be315_529ca17da3e0436cb385c3cf1e8a8dde~mv2.png.webp",
+      "bytes": 104032,
+      "width": 824,
+      "height": 437,
+      "sha256": "d775ebd2066f278e9be2b7882f4392aa2d99123e9be26848dde943dec9f992f2"
+    },
+    "https://static.wixstatic.com/media/2be315_bd0ca4f830044280a75e57a8220876c7f000.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_bd0ca4f830044280a75e57a8220876c7f000.jpg.webp",
+      "bytes": 22520,
+      "width": 638,
+      "height": 336,
+      "sha256": "1f4e01952a856da95081d169bad9ed53e6bc631cca60c23444d07dc06a52a207"
+    },
+    "https://static.wixstatic.com/media/2be315_bc105ce0babf49d5967855793ec9eaea~mv2.png": {
+      "kind": "image",
+      "title": "Learn Skills....png",
+      "local": "/assets/images/2be315_bc105ce0babf49d5967855793ec9eaea~mv2.png.webp",
+      "bytes": 84686,
+      "width": 1262,
+      "height": 706,
+      "sha256": "04e51366ba6d7120548394f94b6d863e7ff298e1cb536a80dd32f211f4d5daee"
+    },
+    "https://i.ytimg.com/vi/37IPSdi7AtM/hqdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-37IPSdi7AtM-hqdefault.jpg.webp",
+      "bytes": 40454,
+      "width": 480,
+      "height": 360,
+      "sha256": "0b29d4c95311faa016105acc5526e4514e4ad2dea5ebdcec77d4425dfc4be39e"
+    },
+    "https://static.wixstatic.com/media/2be315_4b9a6886ce5d4f8b80d9bc6c93ec2f53~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2019-03-28 at 16.39.38.png",
+      "local": "/assets/images/2be315_4b9a6886ce5d4f8b80d9bc6c93ec2f53~mv2.png.webp",
+      "bytes": 46722,
+      "width": 1220,
+      "height": 598,
+      "sha256": "d1732221eb8b28c5215ed454cbef62245e0abdb056fda73c1c1af2fd5272bebb"
+    },
+    "https://music.wixstatic.com/mp3/2be315_a080c850c9c84669a92a9d68becfbb01.mp3": {
+      "kind": "audio",
+      "title": "KCL Cassettes ",
+      "local": "/assets/audio/2be315_a080c850c9c84669a92a9d68becfbb01.mp3",
+      "bytes": 2917059,
+      "sha256": "04ff2fdd1591cf1ac0e9760f57ea187329c57c4e5092cc328ff05e62257ee250"
+    },
+    "https://static.wixstatic.com/media/2be315_152fde805c2d43b59530ce9ba337738f~mv2.png": {
+      "kind": "image",
+      "title": "Website LS capture form intro.png",
+      "local": "/assets/images/2be315_152fde805c2d43b59530ce9ba337738f~mv2.png.webp",
+      "bytes": 50332,
+      "width": 1270,
+      "height": 692,
+      "sha256": "f1f6a7f5b876464868263852d13d6c4472ea36c7158fd0523456f8a1a5e7fcd8"
+    },
+    "https://static.wixstatic.com/media/2be315_0094a4d3d0c24541bb4ea2896decaa71~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2019-03-28 at 18.18.33.png",
+      "local": "/assets/images/2be315_0094a4d3d0c24541bb4ea2896decaa71~mv2.png.webp",
+      "bytes": 41410,
+      "width": 1230,
+      "height": 567,
+      "sha256": "ce60f10cafbe4e8c05bbee34b427170ee7db5177b9f77ee4c9a7e07a88b2aef9"
+    },
+    "https://static.wixstatic.com/media/2be315_a282204f747741e7b8502bcc3ef40298~mv2.png": {
+      "kind": "image",
+      "title": "Jack got a Job.png",
+      "local": "/assets/images/2be315_a282204f747741e7b8502bcc3ef40298~mv2.png.webp",
+      "bytes": 96016,
+      "width": 1279,
+      "height": 720,
+      "sha256": "ddb304847ea4698a8ffd6a077264a3c62afe13f44deb2a6f9d0e87e8dabd5ddc"
+    },
+    "https://static.wixstatic.com/media/2be315_211a00998f43484a99994379bfe28a48~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2019-03-28 at 17.18.30.png",
+      "local": "/assets/images/2be315_211a00998f43484a99994379bfe28a48~mv2.png.webp",
+      "bytes": 42934,
+      "width": 465,
+      "height": 744,
+      "sha256": "0febeec961afca42ea2f77db04bc20f2fe84ee45a03791bcd1246f75b3844a7b"
+    },
+    "https://static.wixstatic.com/media/2be315_f949e50d510e4b31874139049159f3bd~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2019-03-28 at 18.19.49.png",
+      "local": "/assets/images/2be315_f949e50d510e4b31874139049159f3bd~mv2.png.webp",
+      "bytes": 85748,
+      "width": 1220,
+      "height": 556,
+      "sha256": "ae65d7c99e331c6b289d27cc2b788eda720af50f43d993a15af0dafed84a70b9"
+    },
+    "https://static.wixstatic.com/media/2be315_7ead858d065b4027b2584a737b0d4135~mv2.jpg": {
+      "kind": "image",
+      "title": "LS-doodle-banner.jpg",
+      "local": "/assets/images/2be315_7ead858d065b4027b2584a737b0d4135~mv2.jpg.webp",
+      "bytes": 81908,
+      "width": 1000,
+      "height": 410,
+      "sha256": "9f8e4ffc93cf1f74e336165196f18938b6e36d9d8925071d2a528e110f551353"
+    },
+    "https://static.wixstatic.com/media/2be315_ec256f0fbeb7443c8b2333222ef5fd64~mv2.png": {
+      "kind": "image",
+      "title": "Screen Shot 2019-03-28 at 16.40.33.png",
+      "local": "/assets/images/2be315_ec256f0fbeb7443c8b2333222ef5fd64~mv2.png.webp",
+      "bytes": 35714,
+      "width": 1205,
+      "height": 401,
+      "sha256": "b922f2399395a18450e0c2542905d78979f1ca9110c16b87e4218aff0361b500"
+    },
+    "https://i.ytimg.com/vi/oJcR7pgbSrY/hqdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-oJcR7pgbSrY-hqdefault.jpg.webp",
+      "bytes": 7782,
+      "width": 480,
+      "height": 360,
+      "sha256": "5c40c8bf9edc39b94deaa72a62f0bbba227e84d609249ed832dcd01c7ec82b58"
+    },
+    "https://static.wixstatic.com/media/2be315_af5e7cb5fa2241298679c7b829b20386~mv2.png": {
+      "kind": "image",
+      "title": "Get Internships.png",
+      "local": "/assets/images/2be315_af5e7cb5fa2241298679c7b829b20386~mv2.png.webp",
+      "bytes": 112822,
+      "width": 1273,
+      "height": 713,
+      "sha256": "484450a9b024b5de794b3d58e5b938230439c978395e6f5236e27183a5d6306b"
+    },
+    "https://i.ytimg.com/vi/jTAS23APNAs/maxresdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-jTAS23APNAs-maxresdefault.jpg.webp",
+      "bytes": 37216,
+      "width": 1280,
+      "height": 720,
+      "sha256": "127abaf0492b8c05a86c00b87dea3c4785a92e41f09b81ff1f22c8b8325adfd1"
+    },
+    "https://i.ytimg.com/vi/gaYzCmnhj8E/maxresdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-gaYzCmnhj8E-maxresdefault.jpg.webp",
+      "bytes": 97656,
+      "width": 1280,
+      "height": 720,
+      "sha256": "aef7b8f65130739b178466df46abdecdbbbf29aa14bb5626083c1bce036adb73"
+    },
+    "https://i.ytimg.com/vi/sYWsxZehPeE/hqdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-sYWsxZehPeE-hqdefault.jpg.webp",
+      "bytes": 24468,
+      "width": 480,
+      "height": 360,
+      "sha256": "3dfd4fd99ac38c4c8583521a40540191bf499fb1a406da9e9ab0a3126e01da12"
+    },
+    "https://i.ytimg.com/vi/KOww5YUozcc/maxresdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-KOww5YUozcc-maxresdefault.jpg.webp",
+      "bytes": 36422,
+      "width": 1280,
+      "height": 720,
+      "sha256": "e9ccd7eb585e7ce299b7010b282abef52b27921b153c06083f01bd8653150799"
+    },
+    "https://i.ytimg.com/vi/JLN0i13gjkA/maxresdefault.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/youtube-JLN0i13gjkA-maxresdefault.jpg.webp",
+      "bytes": 50512,
+      "width": 1280,
+      "height": 720,
+      "sha256": "090678866130561c0c3c3f28fd9aae739c85985d5a843bb95b04450bf5b6623d"
+    },
+    "https://static.wixstatic.com/media/2be315_d20ee18426f944a092d69e55b3d2995e~mv2.jpg": {
+      "kind": "image",
+      "title": "6G0A1404.jpg",
+      "local": "/assets/images/2be315_d20ee18426f944a092d69e55b3d2995e~mv2.jpg.webp",
+      "bytes": 99634,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "1ded5cee04ea11d56f65bfd04db9bd3d14738fe991b86608030171f79bde9094"
+    },
+    "https://static.wixstatic.com/media/2be315_9de1981407884f548c8e702cb7009cfd~mv2.jpg": {
+      "kind": "image",
+      "title": "6G0A1403_edited.jpg",
+      "local": "/assets/images/2be315_9de1981407884f548c8e702cb7009cfd~mv2.jpg.webp",
+      "bytes": 68070,
+      "width": 1600,
+      "height": 858,
+      "sha256": "a67fcbcd757381d2f723d183df8edd2c38bc45373c95776dd72d43cfb9b04f08"
+    },
+    "https://static.wixstatic.com/media/2be315_74e4096782084d6b96bfc5b442c2d7dc~mv2.jpg": {
+      "kind": "image",
+      "title": "42667509_250282559006393_8695113693924425728_o.jpg",
+      "local": "/assets/images/2be315_74e4096782084d6b96bfc5b442c2d7dc~mv2.jpg.webp",
+      "bytes": 142484,
+      "width": 937,
+      "height": 1406,
+      "sha256": "804aeef9867df8da8f7f1d2c359cb64ed39e3599c18073ffc3c777e3d03af03d"
+    },
+    "https://static.wixstatic.com/media/2be315_5d9aabd54a754a778fd5e8de483c1412~mv2_d_2701_2029_s_2.jpg": {
+      "kind": "image",
+      "title": "Cleo Anderson Photo.JPG",
+      "local": "/assets/images/2be315_5d9aabd54a754a778fd5e8de483c1412~mv2_d_2701_2029_s_2.jpg.webp",
+      "bytes": 176840,
+      "width": 1600,
+      "height": 1202,
+      "sha256": "66531087c5696ace3a5b2c0895cf808e7ed9f2e8a8501b11c346b6f542a84e31"
+    },
+    "https://static.wixstatic.com/media/2be315_199d44e1d5574f0e88139550774c7c78~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_199d44e1d5574f0e88139550774c7c78~mv2.jpg.webp",
+      "bytes": 81976,
+      "width": 640,
+      "height": 640,
+      "sha256": "84cb66294f5f41e4fa1de00073c0681b3117ac487f3443f42e47231a994a63bf"
+    },
+    "https://static.wixstatic.com/media/2be315_d1cd52169a0f4b8c97cd9c787c7f8720~mv2.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/2be315_d1cd52169a0f4b8c97cd9c787c7f8720~mv2.jpg.webp",
+      "bytes": 93716,
+      "width": 640,
+      "height": 640,
+      "sha256": "ecd49dff6efd4dee78d3ae03f09bd5b7b162965c72eb0ebf7378dc0f52565feb"
+    },
+    "https://static.wixstatic.com/media/463cc8fbe2fe47ec945c7ccea0ba39a0.jpg": {
+      "kind": "image",
+      "title": "",
+      "local": "/assets/images/463cc8fbe2fe47ec945c7ccea0ba39a0.jpg.webp",
+      "bytes": 91560,
+      "width": 1600,
+      "height": 1067,
+      "sha256": "4bb7e4ab4814e12e535d5234c6c7e8af020b059ee3027e7481c388e180d300f1"
+    },
+    "https://video.wixstatic.com/video/2be315_1d7074be55e74f1196dcb44e7fb9dd7b/720p/mp4/file.mp4": {
+      "kind": "video",
+      "title": "Lynk - The Power of Motherhood",
+      "local": "/assets/video/2be315_1d7074be55e74f1196dcb44e7fb9dd7b.mp4",
+      "bytes": 26233605,
+      "sha256": "6f7514c1e40d2ef6c88519ce71994aa849f01a7cb00bd6e98fce79c07d795e9f",
+      "acquisition": "Refreshed public playback, 720p HLS remuxed without re-encoding"
+    },
+    "https://video.wixstatic.com/video/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9/720p/mp4/file.mp4": {
+      "kind": "video",
+      "title": "JPS - Aunty Donna - Grand Bonanza Giveaway",
+      "local": "/assets/video/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9.mp4",
+      "bytes": 30058162,
+      "sha256": "aee1f8b459494144790d109bc73a7348d389f285e21c7c66eacc1b787dfcba31",
+      "acquisition": "Refreshed public playback, 720p HLS remuxed without re-encoding"
+    }
+  },
+  "components": {
+    "comp-jqxqfgxo": {
+      "page": "/about-me",
+      "sectionId": "comp-ldkgessj",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_881c7f8a40ea4d6db9d286087d0dda4c~mv2.png",
+          "title": "ED01E98B-667F-4F04-93A1-838C0CC9527C_1_201_a.jpeg",
+          "width": 4032,
+          "height": 2268,
+          "local": "/assets/images/2be315_881c7f8a40ea4d6db9d286087d0dda4c~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-mmj4b3tf": {
+      "page": "/about-me",
+      "sectionId": "comp-ldkgessj",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_d022b96a448242b898b58fa2f8c9040d~mv2.jpg",
+          "title": "IMG_0157.JPG",
+          "width": 2048,
+          "height": 1363,
+          "local": "/assets/images/2be315_d022b96a448242b898b58fa2f8c9040d~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-jbrxv8i2": {
+      "page": "/about-me",
+      "sectionId": "comp-ldkgessk",
+      "type": "LinkBar",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+          "title": "",
+          "width": 200,
+          "height": 200,
+          "local": "/assets/images/6ea5b4a88f0b4f91945b40499aa0af00.png.webp"
+        }
+      ]
+    },
+    "comp-kibypd05": {
+      "page": "/",
+      "sectionId": "comp-jbrvkllk",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg",
+          "title": "6G0A0502.jpg",
+          "width": 3600,
+          "height": 2400,
+          "local": "/assets/images/2be315_81fd985dd163496b923ab05843bc9d3f~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-jqxto0ky": {
+      "page": "/",
+      "sectionId": "comp-jbrvkllk",
+      "type": "LinkBar",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/aa0402eb9ba2430d9d0620b59556efca.png",
+          "title": "LinkedIn - Black Circle",
+          "width": 200,
+          "height": 200,
+          "local": "/assets/images/aa0402eb9ba2430d9d0620b59556efca.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png",
+          "title": "Instagram",
+          "width": 200,
+          "height": 200,
+          "local": "/assets/images/e1aa082f7c0747168d9cf43e77046142.png.webp"
+        }
+      ]
+    },
+    "comp-mmj2bll5": {
+      "page": "/",
+      "sectionId": "comp-jbrvklmk",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg",
+          "title": "2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg",
+          "width": 600,
+          "height": 600,
+          "local": "/assets/images/2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-mmj2krvr": {
+      "page": "/",
+      "sectionId": "comp-ldkgess2",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg",
+          "title": "2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg",
+          "width": 600,
+          "height": 600,
+          "local": "/assets/images/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rg36yp": {
+      "page": "/",
+      "sectionId": "comp-ldkgess2",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png",
+          "title": "2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png",
+          "width": 300,
+          "height": 300,
+          "local": "/assets/images/2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-jbrvklnx": {
+      "page": "/",
+      "sectionId": "comp-jbrvklmk",
+      "type": "Column",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_f1e84bb2c6c44880a0a226ad9e380625~mv2.png",
+          "title": "IMG_0014.HEIC",
+          "width": 3024,
+          "height": 4032,
+          "local": "/assets/images/2be315_f1e84bb2c6c44880a0a226ad9e380625~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-jbrvklkh": {
+      "page": "/",
+      "sectionId": "comp-jbrvkljh",
+      "type": "Column",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_e4eb24e66f0348d2ac289230c0b4b16e~mv2.jpg",
+          "title": "FullSizeRender_edited.jpg",
+          "width": 1498,
+          "height": 1688,
+          "local": "/assets/images/2be315_e4eb24e66f0348d2ac289230c0b4b16e~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-jbrvklov": {
+      "page": "/",
+      "sectionId": "comp-jbrvklo2",
+      "type": "Column",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_1682cf06f90f4cfd8a3d145d10c728e5~mv2.jpeg",
+          "title": "20240919_RKeus_5569.JPEG",
+          "width": 6000,
+          "height": 4000,
+          "local": "/assets/images/2be315_1682cf06f90f4cfd8a3d145d10c728e5~mv2.jpeg.webp"
+        }
+      ]
+    },
+    "comp-jbrvkloz": {
+      "page": "/",
+      "sectionId": "comp-jbrvklo2",
+      "type": "Column",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/035244_4b88cff670d5444fb5e46e04c79a248e~mv2_d_3124_3129_s_4_2.png",
+          "title": "shutterstock_681720730 [Converted]-01.png",
+          "width": 3124,
+          "height": 3129,
+          "local": "/assets/images/035244_4b88cff670d5444fb5e46e04c79a248e~mv2_d_3124_3129_s_4_2.png.webp"
+        }
+      ]
+    },
+    "comp-jbrvklp5": {
+      "page": "/",
+      "sectionId": "comp-jbrvklo2",
+      "type": "Column",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_021a7d2339474d11a32db282ac1ab8b8~mv2.png",
+          "title": "IMG_8561.HEIC",
+          "width": 3024,
+          "height": 4032,
+          "local": "/assets/images/2be315_021a7d2339474d11a32db282ac1ab8b8~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-mmj3ipfu": {
+      "page": "/projects",
+      "sectionId": "comp-mmj30j10",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_4e5e36e24b9d4361913c423f72f677da~mv2.jpg",
+          "title": "2be315_4e5e36e24b9d4361913c423f72f677da~mv2.jpg",
+          "width": 600,
+          "height": 600,
+          "local": "/assets/images/2be315_4e5e36e24b9d4361913c423f72f677da~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-mmj3i3bn": {
+      "page": "/projects",
+      "sectionId": "comp-m5rg56xf",
+      "type": "VideoPlayer",
+      "items": [
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/9SjVzjYOx_8",
+          "url": "https://www.youtube.com/watch?v=9SjVzjYOx_8&list=PL_va8cJKYXzhnJ-ER3Joo7MuB0qoNC6d6&index=6",
+          "videoId": "9SjVzjYOx_8",
+          "title": "",
+          "description": "Produced for The Farmer's Land Trust",
+          "poster": "https://i.ytimg.com/vi/9SjVzjYOx_8/hqdefault.jpg",
+          "duration": 0,
+          "posterLocal": "/assets/images/youtube-9SjVzjYOx_8-hqdefault.jpg.webp"
+        }
+      ]
+    },
+    "comp-mrkgpjqt": {
+      "page": "/projects",
+      "sectionId": "comp-m5rg56xf",
+      "type": "VideoPlayer",
+      "items": [
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/6wny1zoYYkI",
+          "url": "https://www.youtube.com/watch?v=6wny1zoYYkI",
+          "videoId": "6wny1zoYYkI",
+          "title": "",
+          "description": "",
+          "poster": "https://i.ytimg.com/vi/6wny1zoYYkI/hqdefault.jpg",
+          "duration": 0,
+          "posterLocal": "/assets/images/youtube-6wny1zoYYkI-hqdefault.jpg.webp"
+        }
+      ]
+    },
+    "comp-mmlwvdlj": {
+      "page": "/projects",
+      "sectionId": "comp-mmlwseia",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg",
+          "title": "",
+          "width": 2048,
+          "height": 2048,
+          "local": "/assets/images/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-md1qaf9s": {
+      "page": "/projects",
+      "sectionId": "comp-md1nmhct",
+      "type": "SliderGallery",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_061dad4ff90b48e69689f065367661e6~mv2.png",
+          "title": "Screenshot 2025-07-13 at 14.42.31",
+          "width": 790,
+          "height": 1170,
+          "local": "/assets/images/2be315_061dad4ff90b48e69689f065367661e6~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_1000c08ae9094177b4746180f20e5f17~mv2.jpeg",
+          "title": "WhatsApp Image 2025-06-01 at 17.07.18",
+          "width": 1066,
+          "height": 1600,
+          "local": "/assets/images/2be315_1000c08ae9094177b4746180f20e5f17~mv2.jpeg.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_0d10482a0e2d44d4bdb77d3d032f1112~mv2.jpg",
+          "title": "EB2D8D8F-2956-4D71-B63F-68356CC0980C",
+          "width": 1170,
+          "height": 2080,
+          "local": "/assets/images/2be315_0d10482a0e2d44d4bdb77d3d032f1112~mv2.jpg.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_c570ccc0bf7e4828a76db68efeff92b8~mv2.jpeg",
+          "title": "WhatsApp Image 2025-05-29 at 20.22.24 (2)",
+          "width": 1280,
+          "height": 720,
+          "local": "/assets/images/2be315_c570ccc0bf7e4828a76db68efeff92b8~mv2.jpeg.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_e18fc92a0eb144d28a7777a4a6fe0f09~mv2.jpeg",
+          "title": "WhatsApp Image 2025-07-07 at 16.13.27",
+          "width": 480,
+          "height": 565,
+          "local": "/assets/images/2be315_e18fc92a0eb144d28a7777a4a6fe0f09~mv2.jpeg.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_ea5adcf68d654dbf95c67537ad48b220~mv2.jpg",
+          "title": "24EDDB8C-9D38-4955-91F3-9560F77ABDEF",
+          "width": 1170,
+          "height": 2080,
+          "local": "/assets/images/2be315_ea5adcf68d654dbf95c67537ad48b220~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-mmj3zq82": {
+      "page": "/projects",
+      "sectionId": "comp-mmj3zjbn",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_d289dc2384504fa997364c90ec7f2db1~mv2.webp",
+          "title": "2be315_d289dc2384504fa997364c90ec7f2db1~mv2.webp",
+          "width": 600,
+          "height": 300,
+          "local": "/assets/images/2be315_d289dc2384504fa997364c90ec7f2db1~mv2.webp.webp"
+        }
+      ]
+    },
+    "comp-kyucrde9": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgesse",
+      "type": "PaginatedGridGallery",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_4cb611747a8e442199e68626ef03dd66~mv2.png",
+          "title": "IMG_7221",
+          "width": 2268,
+          "height": 4032,
+          "local": "/assets/images/2be315_4cb611747a8e442199e68626ef03dd66~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_515b13d68b4d41e28f215bb395cfc36f~mv2.png",
+          "title": "83AD0412-B764-4E93-88A7-D0EE68331F08",
+          "width": 4032,
+          "height": 3024,
+          "local": "/assets/images/2be315_515b13d68b4d41e28f215bb395cfc36f~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_ad2897a4de3943ad99bdd89974a58f93~mv2.png",
+          "title": "Screenshot 2022-01-25 at 16.32.46",
+          "width": 1398,
+          "height": 934,
+          "local": "/assets/images/2be315_ad2897a4de3943ad99bdd89974a58f93~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_3e9c0dcfb0dd4f19a3f9ffa96e5b5fb9~mv2.png",
+          "title": "420A164F-8725-49A9-AD47-EB5959A6F61A",
+          "width": 4032,
+          "height": 3024,
+          "local": "/assets/images/2be315_3e9c0dcfb0dd4f19a3f9ffa96e5b5fb9~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_53e3d904ab5d4ae8a48f9abbfd79836a~mv2.png",
+          "title": "IMG_3627",
+          "width": 2268,
+          "height": 4032,
+          "local": "/assets/images/2be315_53e3d904ab5d4ae8a48f9abbfd79836a~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_e8439f00a9764f7e927eac392383a255~mv2.png",
+          "title": "F1243959-840B-4C03-8777-054ED26A1CB6",
+          "width": 4032,
+          "height": 3024,
+          "local": "/assets/images/2be315_e8439f00a9764f7e927eac392383a255~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-lfb9q2xr": {
+      "page": "/projects",
+      "sectionId": "comp-lfa2xhji",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_1f90b859f7224ec1b3dd946a4d27e893~mv2.png",
+          "title": "Herself_logo design_opt1_white.png",
+          "width": 8039,
+          "height": 4500,
+          "local": "/assets/images/2be315_1f90b859f7224ec1b3dd946a4d27e893~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-lhzrjc6a": {
+      "page": "/projects",
+      "sectionId": "comp-lhzrga8z",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_676d23e941ba42ff88c480b5dce31160~mv2.jpg",
+          "title": "IV Logo (1).png",
+          "width": 900,
+          "height": 900,
+          "local": "/assets/images/2be315_676d23e941ba42ff88c480b5dce31160~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-lpjk9c3a": {
+      "page": "/projects",
+      "sectionId": "comp-lpjk9c14",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_7f9e4734d1c24a7c9737be4873598e2e~mv2.png",
+          "title": "IV Logo (1).png",
+          "width": 500,
+          "height": 500,
+          "local": "/assets/images/2be315_7f9e4734d1c24a7c9737be4873598e2e~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-lhzrcdp7": {
+      "page": "/projects",
+      "sectionId": "comp-lhzr6nut",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_b981266278bc420c9057898b2328c7cf~mv2.webp",
+          "title": "logos-BID-10-en.png.webp",
+          "width": 1407,
+          "height": 196,
+          "local": "/assets/images/2be315_b981266278bc420c9057898b2328c7cf~mv2.webp.webp"
+        }
+      ]
+    },
+    "comp-lhzrevzt": {
+      "page": "/projects",
+      "sectionId": "comp-lhzr2emn",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_4d61bee0598f4594a43261ef7747969e~mv2.jpg",
+          "title": "bunny lee gorgon.jpg",
+          "width": 948,
+          "height": 632,
+          "local": "/assets/images/2be315_4d61bee0598f4594a43261ef7747969e~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-kyubdibn": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessf",
+      "type": "VideoPlayer",
+      "items": [
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/TPhNr8iqHxk",
+          "url": "https://www.youtube.com/watch?v=TPhNr8iqHxk&t=148s",
+          "videoId": "TPhNr8iqHxk",
+          "title": "",
+          "description": "",
+          "poster": "https://i.ytimg.com/vi/TPhNr8iqHxk/hqdefault.jpg",
+          "duration": 0,
+          "posterLocal": "/assets/images/youtube-TPhNr8iqHxk-hqdefault.jpg.webp"
+        }
+      ]
+    },
+    "comp-kyucasy5": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessf",
+      "type": "VideoPlayer",
+      "items": [
+        {
+          "kind": "video",
+          "src": "https://video.wixstatic.com/video/2be315_bd0ca4f830044280a75e57a8220876c7/360p/mp4/file.mp4",
+          "title": "Your Video Title",
+          "description": "",
+          "poster": "https://static.wixstatic.com/media/2be315_bd0ca4f830044280a75e57a8220876c7f000.jpg",
+          "duration": 30.87,
+          "local": "/assets/video/2be315_bd0ca4f830044280a75e57a8220876c7.mp4",
+          "posterLocal": "/assets/images/2be315_bd0ca4f830044280a75e57a8220876c7f000.jpg.webp"
+        }
+      ]
+    },
+    "comp-ju1hvc5x": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessf2",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_f4a52ff7fad449dd9656792525a8f832~mv2.png",
+          "title": "Laytrous.PNG",
+          "width": 856,
+          "height": 743,
+          "local": "/assets/images/2be315_f4a52ff7fad449dd9656792525a8f832~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-jyu5tm8n": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessf2",
+      "type": "VideoPlayer",
+      "items": [
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/37IPSdi7AtM",
+          "url": "https://www.youtube.com/watch?v=37IPSdi7AtM",
+          "videoId": "37IPSdi7AtM",
+          "title": "",
+          "description": "",
+          "poster": "https://i.ytimg.com/vi/37IPSdi7AtM/hqdefault.jpg",
+          "duration": 0,
+          "posterLocal": "/assets/images/youtube-37IPSdi7AtM-hqdefault.jpg.webp"
+        }
+      ]
+    },
+    "comp-jt1s5c3k": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessg",
+      "type": "SingleAudioPlayer",
+      "items": [
+        {
+          "kind": "audio",
+          "src": "https://music.wixstatic.com/mp3/2be315_a080c850c9c84669a92a9d68becfbb01.mp3",
+          "title": "KCL Cassettes ",
+          "artist": "Cleo A",
+          "local": "/assets/audio/2be315_a080c850c9c84669a92a9d68becfbb01.mp3"
+        }
+      ]
+    },
+    "comp-jyu0wbdy": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessg",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_35573b0dc2264c49a938ec0361a9503e~mv2_d_3024_4032_s_4_2.jpeg",
+          "title": "IMG_1339.jpeg",
+          "width": 3024,
+          "height": 4032,
+          "local": "/assets/images/2be315_35573b0dc2264c49a938ec0361a9503e~mv2_d_3024_4032_s_4_2.jpeg.webp"
+        }
+      ]
+    },
+    "comp-kmmsy5mm": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessg1",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_3989111ab41c424699a57ac06991968c~mv2.png",
+          "title": "Screen Shot 2017-07-07 at 11.46.55.png",
+          "width": 1920,
+          "height": 1080,
+          "local": "/assets/images/2be315_3989111ab41c424699a57ac06991968c~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-jyu24ayx": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessg2",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_ea5adcf68d654dbf95c67537ad48b220~mv2.jpg",
+          "title": "24EDDB8C-9D38-4955-91F3-9560F77ABDEF.JPG",
+          "width": 1170,
+          "height": 2080,
+          "local": "/assets/images/2be315_ea5adcf68d654dbf95c67537ad48b220~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-mmlwl14z": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessg2",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_961676673fb64b778c24fa6e025b3c2a~mv2.jpg",
+          "title": "Future News Worldwide alumni - 11 July 2",
+          "width": 1417,
+          "height": 946,
+          "local": "/assets/images/2be315_961676673fb64b778c24fa6e025b3c2a~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-jytzh38v": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessf2",
+      "type": "ProGallery",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_4606b6aa6e52449bbe7a62246ecf54eb~mv2.png",
+          "title": "LS exciting....png",
+          "width": 1267,
+          "height": 764,
+          "local": "/assets/images/2be315_4606b6aa6e52449bbe7a62246ecf54eb~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_ecff32f7ab9d4fb0b59a1eddb0591b27~mv2.png",
+          "title": "Crack into new industries.png",
+          "width": 1280,
+          "height": 717,
+          "local": "/assets/images/2be315_ecff32f7ab9d4fb0b59a1eddb0591b27~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_529ca17da3e0436cb385c3cf1e8a8dde~mv2.png",
+          "title": "Screen Shot 2019-03-28 at 18.19.22.png",
+          "width": 824,
+          "height": 437,
+          "local": "/assets/images/2be315_529ca17da3e0436cb385c3cf1e8a8dde~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_4b9a6886ce5d4f8b80d9bc6c93ec2f53~mv2.png",
+          "title": "Screen Shot 2019-03-28 at 16.39.38.png",
+          "width": 1220,
+          "height": 598,
+          "local": "/assets/images/2be315_4b9a6886ce5d4f8b80d9bc6c93ec2f53~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_bc105ce0babf49d5967855793ec9eaea~mv2.png",
+          "title": "Learn Skills....png",
+          "width": 1262,
+          "height": 706,
+          "local": "/assets/images/2be315_bc105ce0babf49d5967855793ec9eaea~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_211a00998f43484a99994379bfe28a48~mv2.png",
+          "title": "Screen Shot 2019-03-28 at 17.18.30.png",
+          "width": 465,
+          "height": 744,
+          "local": "/assets/images/2be315_211a00998f43484a99994379bfe28a48~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_f949e50d510e4b31874139049159f3bd~mv2.png",
+          "title": "Screen Shot 2019-03-28 at 18.19.49.png",
+          "width": 1220,
+          "height": 556,
+          "local": "/assets/images/2be315_f949e50d510e4b31874139049159f3bd~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_0094a4d3d0c24541bb4ea2896decaa71~mv2.png",
+          "title": "Screen Shot 2019-03-28 at 18.18.33.png",
+          "width": 1230,
+          "height": 567,
+          "local": "/assets/images/2be315_0094a4d3d0c24541bb4ea2896decaa71~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_152fde805c2d43b59530ce9ba337738f~mv2.png",
+          "title": "Website LS capture form intro.png",
+          "width": 1270,
+          "height": 692,
+          "local": "/assets/images/2be315_152fde805c2d43b59530ce9ba337738f~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_a282204f747741e7b8502bcc3ef40298~mv2.png",
+          "title": "Jack got a Job.png",
+          "width": 1279,
+          "height": 720,
+          "local": "/assets/images/2be315_a282204f747741e7b8502bcc3ef40298~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_ec256f0fbeb7443c8b2333222ef5fd64~mv2.png",
+          "title": "Screen Shot 2019-03-28 at 16.40.33.png",
+          "width": 1205,
+          "height": 401,
+          "local": "/assets/images/2be315_ec256f0fbeb7443c8b2333222ef5fd64~mv2.png.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_7ead858d065b4027b2584a737b0d4135~mv2.jpg",
+          "title": "LS-doodle-banner.jpg",
+          "width": 1000,
+          "height": 410,
+          "local": "/assets/images/2be315_7ead858d065b4027b2584a737b0d4135~mv2.jpg.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_438f4d067a7244589ce230200e9f085b~mv2_d_1844_1844_s_2.jpg",
+          "title": "40066383_239556850078964_708955381085451",
+          "width": 1844,
+          "height": 1844,
+          "local": "/assets/images/2be315_438f4d067a7244589ce230200e9f085b~mv2_d_1844_1844_s_2.jpg.webp"
+        },
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_af5e7cb5fa2241298679c7b829b20386~mv2.png",
+          "title": "Get Internships.png",
+          "width": 1273,
+          "height": 713,
+          "local": "/assets/images/2be315_af5e7cb5fa2241298679c7b829b20386~mv2.png.webp"
+        }
+      ]
+    },
+    "comp-jyu50cy5": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgessf2",
+      "type": "VideoChannel",
+      "title": "All Videos",
+      "items": [
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/PuJYMkFHF7w",
+          "url": "https://www.youtube.com/embed/PuJYMkFHF7w",
+          "videoId": "PuJYMkFHF7w",
+          "title": "To Fly Or Not To Fly?",
+          "description": "",
+          "poster": "https://i.ytimg.com/vi/PuJYMkFHF7w/maxresdefault.jpg",
+          "duration": 83,
+          "posterLocal": "/assets/images/youtube-PuJYMkFHF7w-maxresdefault.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/DOma2KCFIDI",
+          "url": "https://www.youtube.com/embed/DOma2KCFIDI",
+          "videoId": "DOma2KCFIDI",
+          "title": "A Short Guide to Beirut",
+          "description": "",
+          "poster": "https://i.ytimg.com/vi/DOma2KCFIDI/maxresdefault.jpg",
+          "duration": 102,
+          "posterLocal": "/assets/images/youtube-DOma2KCFIDI-maxresdefault.jpg.webp"
+        }
+      ]
+    },
+    "comp-kyubpcpj": {
+      "page": "/projects",
+      "sectionId": "comp-ldkgesse1",
+      "type": "VideoChannel",
+      "title": "LAB - Senior Content Creator",
+      "items": [
+        {
+          "kind": "video",
+          "src": "https://video.wixstatic.com/video/2be315_1d7074be55e74f1196dcb44e7fb9dd7b/720p/mp4/file.mp4",
+          "title": "Lynk - The Power of Motherhood",
+          "description": "Happy Mother's Day! For Lynk Jamaica 2023.",
+          "poster": "https://static.wixstatic.com/media/2be315_1d7074be55e74f1196dcb44e7fb9dd7bf002.jpg",
+          "duration": 92,
+          "local": "/assets/video/2be315_1d7074be55e74f1196dcb44e7fb9dd7b.mp4",
+          "posterLocal": "/assets/images/2be315_1d7074be55e74f1196dcb44e7fb9dd7bf002.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/oJcR7pgbSrY",
+          "url": "https://www.youtube.com/embed/oJcR7pgbSrY",
+          "videoId": "oJcR7pgbSrY",
+          "title": "Unlocking Dreams With Lesline Aiken",
+          "description": "Meet Lesline Aiken, a Verification Clerk at National Commercial Bank Jamaica Limited.\n\nWatch Lesline’s story of Unlocking Dreams at National Commercial Bank Jamaica Limited at www.myncb.com/leslinestory",
+          "poster": "https://i.ytimg.com/vi/oJcR7pgbSrY/hqdefault.jpg",
+          "duration": 429,
+          "posterLocal": "/assets/images/youtube-oJcR7pgbSrY-hqdefault.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/jTAS23APNAs",
+          "url": "https://www.youtube.com/embed/jTAS23APNAs",
+          "videoId": "jTAS23APNAs",
+          "title": "NCBCM Wealth Unlocked: Episode 1 with Dr. Joy Spence",
+          "description": "Join us for the first episode of Wealth Unlocked, where host and COO, NCBCM, Tracy-Ann Spence, speaks with her very own mother, the inimitable Dr. Joy Spence, the first female Master Blender in the world.\n\nDr. Spence takes us on a fascinating journey in becoming a Master Blender, holding her own in a male-dominated industry, and shares her secrets to financial success and true happiness.\n\nDon't miss this new digital TV series on \nIGTV  - https://instagram.com/ncbcapmarkets, and \nYoutube - https://youtube.com/ncbja\n\n#NCBCMWealthUnlocked\n#WomensMonth #BreakTheBias #MentorHer #Womentorship\n#NCBCM #WealthManagement #Investment",
+          "poster": "https://i.ytimg.com/vi/jTAS23APNAs/maxresdefault.jpg",
+          "duration": 913,
+          "posterLocal": "/assets/images/youtube-jTAS23APNAs-maxresdefault.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/gaYzCmnhj8E",
+          "url": "https://www.youtube.com/embed/gaYzCmnhj8E",
+          "videoId": "gaYzCmnhj8E",
+          "title": "#ChillinWidGrace Chef It Wayne Marshall vs Ding Dong Cookoff",
+          "description": "Season 2 starts off with a BANG! We've been prepping you for this but nothing is like watching the real thing! Who's gonna take home the CHEF Hat today? Who will walk out with the Master Class? Who will hold the title of \"Baddest inna the Kitchen\" ?\n\nWe hope you're tuned in to witness the cheffinz, make sure to comment #TeamWayne or #TeamDing - ENJOY!",
+          "poster": "https://i.ytimg.com/vi/gaYzCmnhj8E/maxresdefault.jpg",
+          "duration": 912,
+          "posterLocal": "/assets/images/youtube-gaYzCmnhj8E-maxresdefault.jpg.webp"
+        },
+        {
+          "kind": "video",
+          "src": "https://video.wixstatic.com/video/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9/720p/mp4/file.mp4",
+          "title": "JPS - Aunty Donna - Grand Bonanza Giveaway",
+          "description": "Aunty Donna a local Jamaican influencer promotes users to regularise their electricity to be in with a chance to win a variety of prizes. \nThis was shot in Aunty Donna's local community and the script was written by myself but was led by what Aunty Donna felt comfortable with.",
+          "poster": "https://static.wixstatic.com/media/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9f000.jpg",
+          "duration": 84,
+          "local": "/assets/video/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9.mp4",
+          "posterLocal": "/assets/images/2be315_c7ff5bf0d5774fe9bb055d7f1c880fa9f000.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/KOww5YUozcc",
+          "url": "https://www.youtube.com/embed/KOww5YUozcc",
+          "videoId": "KOww5YUozcc",
+          "title": "N.C.B. Foundation 2021 Grant a Wish | Thank You Jamaica!",
+          "description": "We want to say a big Thank You, Jamaica! \n\nWith more than 1 million votes, you have helped us grant over $15 million in wishes this past holiday season. We are grateful for the opportunity to make a difference in the lives of so many people. We will continue to empower the people of Jamaica by unlocking dreams and building communities.\n\n Join us in our quest by doing your part in helping those in need all throughout the year.\n\n #EmpoweringPeople \n#UnlockingDreams \n#BuildingCommunities",
+          "poster": "https://i.ytimg.com/vi/KOww5YUozcc/maxresdefault.jpg",
+          "duration": 61,
+          "posterLocal": "/assets/images/youtube-KOww5YUozcc-maxresdefault.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/sYWsxZehPeE",
+          "url": "https://www.youtube.com/embed/sYWsxZehPeE",
+          "videoId": "sYWsxZehPeE",
+          "title": "#ChillinWidGrace Quite Perry vs TC",
+          "description": "Grab your popcorn, it's showtime! 🍿 This #ChillinWidGrace episode will have you laughing and learning all at the same time! 😄\nElevate your #GraceHam by following Quite Perry's recipe of \"Vinnie Ham Fried Rice Fiesta\"\nOR\nJazz up your Grace Mackerel and Baked Beans with TC's \"Mackerel Bean Feast\" recipe!\nCheck out this episode and tell us are you #TeamQP or #TeamTC or just #TeamChillinWidGrace. It's strictly vibes on this side! 😉",
+          "poster": "https://i.ytimg.com/vi/sYWsxZehPeE/hqdefault.jpg",
+          "duration": 810,
+          "posterLocal": "/assets/images/youtube-sYWsxZehPeE-hqdefault.jpg.webp"
+        },
+        {
+          "kind": "youtube",
+          "src": "https://www.youtube-nocookie.com/embed/JLN0i13gjkA",
+          "url": "https://www.youtube.com/embed/JLN0i13gjkA",
+          "videoId": "JLN0i13gjkA",
+          "title": "NCB Grants a Wish to Banana Ground",
+          "description": "Our ambassador, Elaine Thompson-Herah, recently launched her Fast Elaine Foundation, and we were happy to partner with her on our quest to grant wishes. \n\nBorn and raised in Banana Ground, Manchester, the community has always held a special place in her heart, leading her to choose it as her grant recipient. \n\nThe Fast Elaine Foundation was therefore awarded J$250,000 for its inaugural Christmas Care Initiative at which more than 500 residents from Banana Ground and surrounding areas were presented with Christmas care packages.\n\n#EmpoweringPeople\n#UnlockingDreams\n#BuildingCommunities",
+          "poster": "https://i.ytimg.com/vi/JLN0i13gjkA/maxresdefault.jpg",
+          "duration": 62,
+          "posterLocal": "/assets/images/youtube-JLN0i13gjkA-maxresdefault.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rgqwp2": {
+      "page": "/services-9",
+      "sectionId": "comp-m5rgqwoj",
+      "type": "Column",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_d20ee18426f944a092d69e55b3d2995e~mv2.jpg",
+          "title": "6G0A1404.jpg",
+          "width": 3600,
+          "height": 2400,
+          "local": "/assets/images/2be315_d20ee18426f944a092d69e55b3d2995e~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rgqwrp": {
+      "page": "/services-9",
+      "sectionId": "comp-m5rgqwqd",
+      "type": "WPhoto",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_cea0c4caa7b04bfeb9780a301b82bfb6~mv2_d_5184_3456_s_4_2.jpg",
+          "title": "IMG_1893.JPG",
+          "width": 5184,
+          "height": 3456,
+          "local": "/assets/images/2be315_cea0c4caa7b04bfeb9780a301b82bfb6~mv2_d_5184_3456_s_4_2.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rgqwrp__item1": {
+      "page": "/services-9",
+      "sectionId": "comp-m5rgqwqd",
+      "type": "",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_cea0c4caa7b04bfeb9780a301b82bfb6~mv2_d_5184_3456_s_4_2.jpg",
+          "title": "IMG_1893.JPG",
+          "width": 5184,
+          "height": 3456,
+          "local": "/assets/images/2be315_cea0c4caa7b04bfeb9780a301b82bfb6~mv2_d_5184_3456_s_4_2.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rgqwrp__item-kes9ajk2": {
+      "page": "/services-9",
+      "sectionId": "comp-m5rgqwqd",
+      "type": "",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_9de1981407884f548c8e702cb7009cfd~mv2.jpg",
+          "title": "6G0A1403_edited.jpg",
+          "width": 2988,
+          "height": 1602,
+          "local": "/assets/images/2be315_9de1981407884f548c8e702cb7009cfd~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rgqwrp__item-kes9aktt": {
+      "page": "/services-9",
+      "sectionId": "comp-m5rgqwqd",
+      "type": "",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_74e4096782084d6b96bfc5b442c2d7dc~mv2.jpg",
+          "title": "42667509_250282559006393_8695113693924425728_o.jpg",
+          "width": 937,
+          "height": 1406,
+          "local": "/assets/images/2be315_74e4096782084d6b96bfc5b442c2d7dc~mv2.jpg.webp"
+        }
+      ]
+    },
+    "comp-m5rgqwrp__item-kes9alpp": {
+      "page": "/services-9",
+      "sectionId": "comp-m5rgqwqd",
+      "type": "",
+      "items": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_5d9aabd54a754a778fd5e8de483c1412~mv2_d_2701_2029_s_2.jpg",
+          "title": "Cleo Anderson Photo.JPG",
+          "width": 2701,
+          "height": 2029,
+          "local": "/assets/images/2be315_5d9aabd54a754a778fd5e8de483c1412~mv2_d_2701_2029_s_2.jpg.webp"
+        }
+      ]
+    }
+  },
+  "homeSlides": [
+    {
+      "id": "comp-kgo3vvin",
+      "text": [
+        "Current",
+        "Assistant Producer",
+        "CREATE, CNN (London)",
+        "I’m an Assistant Producer at CREATE, CNN’s global brand studio, working across international campaigns with productions in UAE, Saudi Arabia, Nigeria, and Gabon - to name just a few. My work starts in development, where I research and write production briefs and scripts. On location, I produce shoots, coordinate with crews, and oversee budgets. I then collaborate closely with editors throughout post-production to ensure each project is delivered on schedule and at the highest quality."
+      ],
+      "images": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg",
+          "title": "2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg",
+          "width": 600,
+          "height": 600,
+          "local": "/assets/images/2be315_a85599ac19084c5083d7e2ea4989f0c9~mv2.jpg.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-ju1gkbcw",
+      "text": [
+        "Current",
+        "Freelance Development Producer",
+        "SAVANT (Hastings)",
+        "I am responsible for developing a slate of documentary projects spanning the UK and the Caribbean, across both feature films and series. My work includes crafting creative briefs, pitch decks, and treatments, as well as preparing funding applications and grant submissions to bring projects into production."
+      ],
+      "images": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg",
+          "title": "2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg",
+          "width": 600,
+          "height": 600,
+          "local": "/assets/images/2be315_03b03b4a6be3402aa94495b7e0df1049~mv2.jpg.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-kkng1bww",
+      "text": [
+        "2025",
+        "Line Producer",
+        "Threads of Us (Feature Film)",
+        "An independent feature film, a Jamaican love story exploring injustice and resilience, directed by Mykal Cushnie and written by Donisha Prendergast. It centres on the love between Malcolm, a factory worker, and Danielle, a seamstress, in Kingston, Jamaica. We shot across 9 days in May 2025. Our DP was Wentworth Kelly."
+      ],
+      "images": []
+    },
+    {
+      "id": "comp-jbrvklnn",
+      "text": [
+        "2025",
+        "Producer",
+        "Rotterdam LAB - International Film Festival Rotterdam (IFFR)",
+        "I was thrilled to be selected for Rotterdam Lab, a renowned workshop for emerging producers to refine their craft and build an international network through panels, round-tables, and networking events!"
+      ],
+      "images": [
+        {
+          "kind": "image",
+          "src": "https://static.wixstatic.com/media/2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png",
+          "title": "2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png",
+          "width": 300,
+          "height": 300,
+          "local": "/assets/images/2be315_36b7a72a923947b080c3352f4b3ac28a~mv2.png.webp"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Images are local WebP files, fitted within 1600 x 1600 without cropping. The Going Green article screenshot retains its original resolution for legibility.",
+    "Original YouTube videos remain external embeds with locally stored thumbnails. Their availability and embedding permissions remain controlled by the original publishers.",
+    "Wix-hosted public MP4 and MP3 media are downloaded locally, so they do not require the old Wix website to remain live.",
+    "Going Green contains an article JPEG and a YouTube link, with no PDF or document attachment exposed in the public article markup."
+  ],
+  "errors": []
+}

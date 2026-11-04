@@ -1,0 +1,10 @@
+.tools/
+audit/raw/
+node_modules/
+dist/
+*.zip
+.preview.log
+.preview-error.log
+.vercel/
+.env*
+/release/

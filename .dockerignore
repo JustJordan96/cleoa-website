@@ -1,0 +1,5 @@
+*
+!dist/
+!dist/**
+!hosting/
+!hosting/nginx.conf

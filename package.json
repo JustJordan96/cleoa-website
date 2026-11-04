@@ -1,0 +1,15 @@
+{
+  "name": "cleo-anderson-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A portable, self-hosted portfolio for Cleo Anderson.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "vercel:prepare": "node scripts/prepare-vercel-preview.mjs"
+  },
+  "engines": {"node": ">=20"}
+}
